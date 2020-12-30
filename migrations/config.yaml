@@ -1,0 +1,6 @@
+version: 2
+endpoint: https://terrazuradatalayer.westus2.azurecontainer.io:8080
+metadata_directory: metadata
+actions:
+  kind: synchronous
+  handler_webhook_baseurl: https://terrazuradatalayer.westus2.azurecontainer.io:8080
