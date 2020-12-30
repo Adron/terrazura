@@ -9,4 +9,4 @@ Last week of 2020 on Wednesday the 30th at 10am PT, I'm going to present a Hasur
 * Deployment of the database schema to Hasura using Hasura CLI Migrations.
 * Coverage of basic GraphQL and looking into introspection, queries, mutations, and subscriptions.
 
-VIDEO LINK WILL GO HERE WHEN LIVE!
+https://www.twitch.tv/thrashingcode
