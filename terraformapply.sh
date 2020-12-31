@@ -4,3 +4,7 @@ terraform apply -auto-approve \
   -var 'password='$PPASSWORD'' \
   -var 'database=terrazuradb' \
   -var 'apiport=8080'
+
+cd migrations
+
+hasura migrate apply
