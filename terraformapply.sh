@@ -1,3 +1,5 @@
+terraform init
+
 terraform apply -auto-approve \
   -var 'server=terrazuraserver' \
   -var 'username='$PUSERNAME'' \
