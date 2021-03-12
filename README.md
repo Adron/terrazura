@@ -2,6 +2,27 @@
 
 I created this repo during a live stream on my Twitch [Thrashing Code](https://www.twitch.tv/thrashingcode) Channel 🤘 at 10am on the 30th of December, 2020. The VOD is now available on my YouTube [Thrashing Code](https://youtube.com/thrashingcode) Channel (click [here](https://youtu.be/7glsC88h2Ss) for the direct link to video). A rough as hell year, but wanted to wrap it up with some solid content. In this stream I tackled a ton of specifics, in detail about getting Hasura deployed in Azure, Postgres backed, a database schema designed and created, using database schema migrations, and all sorts of tips n' tricks along the way. 3 hours of solid how to get shit done material!
 
+## Deployment (i.e. Prerequisites)
+
+You'll need several CLI tools to use this repository for your own.
+
+1. [Terraform](https://www.terraform.io/downloads.html) - [instructions & notes](https://compositecode.blog/2019/08/01/development-workspace-with-terraform/)
+2. [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) - [instructions & notes](https://compositecode.blog/2019/08/01/development-workspace-with-terraform/)
+3. [Hasura CLI](https://hasura.io/docs/latest/graphql/core/hasura-cli/index.html#installation) - [instructions & notes](https://compositecode.blog/2020/10/13/hasure-cli-installation-notes/)
+
+One those tools are available a few things need to be done with the aforementeiond tools.
+
+The Azure CLI needs to be authenticated against Azure using the `az login` command. I wrote a post about setting up Terraform and the Azure CLI "[Development Workspace with Terraform on Azure: Part 1 – Install and Setup Terraform and Azure CLI](https://compositecode.blog/2019/08/01/development-workspace-with-terraform/)", check it out for specific details on setting up these two tools. This deployment can be used just by setting up and using this option to authenticate and Terraform will use this authenticated CLI moving forward, however I'd highly suggest using a Service Principal. For more details about setting up a Service Principal I've got some details about authenticatig to Azure in "[Development Workspace with Azure: Building a Packer Image](https://compositecode.blog/2019/08/16/development-workspace-with-terraform-on-azure-part-2-packer-images/)", in which the Packer image details aren't pertinent to this but in section 5 of that post I cover in detail the intricacies of setting up an Azure Service Princpal and the environment variables that you'll need.
+
+The Hasura CLI needs to just be available and the scripts will utilize it apporpriately from within the folder structure of the project.
+
+One these tools are made available and setup with the appropriate security and configuration, several environment variables need to be set so the launch scripts can pull the needed variable values to pass to Terraform for execution. The following are the environment variables needed:
+
+* **PUSERNAME** - The Postgres Username for the Postgres Server. Generally the default that Postgres usually uses in examples and such is simply *postgres* but you can enter whatever you'd like for the username here. This however may cause you to need to configure that user and the group the user is in within the database for the permissions against the tables you want. The TLDR is, for default setup it's a good idea to just roll with the default *postgres* user here.
+* **PPASSWORD** - This is your super secret password that the Postgres server will be setup with, as the password for the user setup as PUSERNAME. As stated above, that's probably *postgres*, so this would be the password for the *postgres* user in that case.
+
+## How To, Video, and Blog Details About This Project
+
 [![Picture at Time in Point of the Video](https://i1.wp.com/compositecode.blog/wp-content/uploads/2021/02/CleanShot-2021-02-19-at-13.56.22.png)](https://youtu.be/7glsC88h2Ss)
 
 Some of the things covered:
