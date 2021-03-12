@@ -21,6 +21,16 @@ One these tools are made available and setup with the appropriate security and c
 * **PUSERNAME** - The Postgres Username for the Postgres Server. Generally the default that Postgres usually uses in examples and such is simply *postgres* but you can enter whatever you'd like for the username here. This however may cause you to need to configure that user and the group the user is in within the database for the permissions against the tables you want. The TLDR is, for default setup it's a good idea to just roll with the default *postgres* user here.
 * **PPASSWORD** - This is your super secret password that the Postgres server will be setup with, as the password for the user setup as PUSERNAME. As stated above, that's probably *postgres*, so this would be the password for the *postgres* user in that case.
 
+Other variables are also set and passed in via the bash scripts included in the repo, check out the [terraformapply.sh](terraformapply.sh) or [terraformdestroy.sh](terraformdestroy.sh) files to see where you can change those to your liking.
+
+One all of these tools are installed, configured appropriately, and the environment variables set you're all good to go to launch per the following scripts. To `terraform apply` and deploy this Hasura API and Postgres Database, run:
+
+`./terraformapply.sh`
+
+Then when you're done using the environment run the script to destroy it:
+
+`./terraformdestroy.sh`
+
 ## How To, Video, and Blog Details About This Project
 
 [![Picture at Time in Point of the Video](https://i1.wp.com/compositecode.blog/wp-content/uploads/2021/02/CleanShot-2021-02-19-at-13.56.22.png)](https://youtu.be/7glsC88h2Ss)
