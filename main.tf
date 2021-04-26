@@ -59,7 +59,7 @@ resource "azurerm_container_group" "hasura" {
 
   container {
     cpu = "0.5"
-    image = "hasura/graphql-engine:v2.0.0-alpha.1"
+    image = "hasura/graphql-engine:v2.0.0-alpha.9"
     memory = "1.5"
     name = "hasura-data-layer-api"
 
