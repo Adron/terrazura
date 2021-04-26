@@ -1,6 +1,12 @@
 table:
   name: schema
   schema: source_collector
+configuration:
+  custom_column_names: {}
+  custom_root_fields:
+    select: schemaz
+    select_aggregate: schema_agg
+    select_by_pk: schema
 object_relationships:
 - name: Connection
   using:

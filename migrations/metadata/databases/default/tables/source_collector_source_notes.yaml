@@ -1,6 +1,13 @@
 table:
   name: source_notes
   schema: source_collector
+configuration:
+  custom_column_names: {}
+  custom_name: source_notes
+  custom_root_fields:
+    select: notes
+    select_aggregate: note_agg
+    select_by_pk: note
 object_relationships:
 - name: NoteJot
   using:

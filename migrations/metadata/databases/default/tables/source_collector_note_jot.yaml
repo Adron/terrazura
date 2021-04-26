@@ -1,0 +1,35 @@
+table:
+  name: note_jot
+  schema: source_collector
+configuration:
+  custom_column_names: {}
+  custom_name: note_jots
+  custom_root_fields:
+    delete: delete_jots
+    delete_by_pk: delete_jot
+    insert: insert_jots
+    insert_one: insert_jot
+    select: jots
+    select_aggregate: jot_aggregates
+    select_by_pk: jot
+    update: update_jots
+    update_by_pk: update_jot
+object_relationships:
+- name: NoteJot
+  using:
+    foreign_key_constraint_on: note_id
+array_relationships:
+- name: NoteJots
+  using:
+    foreign_key_constraint_on:
+      column: note_id
+      table:
+        name: note_jot
+        schema: source_collector
+- name: SourceNotes
+  using:
+    foreign_key_constraint_on:
+      column: notes_id
+      table:
+        name: source_notes
+        schema: source_collector

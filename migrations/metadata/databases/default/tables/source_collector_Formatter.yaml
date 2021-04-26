@@ -1,7 +1,7 @@
 table:
-  name: Formatter
+  name: formatter
   schema: source_collector
 object_relationships:
 - name: Connection
   using:
-    foreign_key_constraint_on: ConnectionId
+    foreign_key_constraint_on: connection_id
