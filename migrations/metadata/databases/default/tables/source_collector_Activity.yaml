@@ -1,0 +1,11 @@
+table:
+  name: activity
+  schema: source_collector
+array_relationships:
+- name: Connections
+  using:
+    foreign_key_constraint_on:
+      column: ActivityId
+      table:
+        name: Connection
+        schema: source_collector

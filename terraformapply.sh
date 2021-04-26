@@ -9,4 +9,6 @@ terraform apply -auto-approve \
 
 cd migrations
 
-hasura migrate apply
+hasura migrate apply --all-databases
+hasura metadata apply
+hasura seeds apply -database-name default

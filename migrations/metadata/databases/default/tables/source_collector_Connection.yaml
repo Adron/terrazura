@@ -1,0 +1,25 @@
+table:
+  name: Connection
+  schema: source_collector
+object_relationships:
+- name: Activity
+  using:
+    foreign_key_constraint_on: ActivityId
+- name: Source
+  using:
+    foreign_key_constraint_on: SourceId
+array_relationships:
+- name: Formatters
+  using:
+    foreign_key_constraint_on:
+      column: ConnectionId
+      table:
+        name: Formatter
+        schema: source_collector
+- name: Schemas
+  using:
+    foreign_key_constraint_on:
+      column: connection_id
+      table:
+        name: schema
+        schema: source_collector
