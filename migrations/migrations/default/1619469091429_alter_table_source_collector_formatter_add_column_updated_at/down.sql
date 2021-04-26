@@ -1,6 +1,9 @@
 -- Could not auto-generate a down migration.
 -- Please write an appropriate down migration for the SQL below:
 -- alter table "source_collector"."formatter" add column "updated_at" timestamptz
+
+DROP FUNCTION "source_collector"."set_current_timestamp_updated_at"
+
  null default now();
 
 CREATE OR REPLACE FUNCTION "source_collector"."set_current_timestamp_updated_at"()

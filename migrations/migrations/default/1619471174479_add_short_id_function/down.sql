@@ -1,0 +1,1 @@
+DROP FUNCTION gen_unique_short_id();
