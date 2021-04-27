@@ -11,4 +11,4 @@ cd migrations
 
 hasura migrate apply --all-databases
 hasura metadata apply
-hasura seeds apply -database-name default
+hasura seeds apply --database-name default

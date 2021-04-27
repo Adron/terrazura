@@ -1,0 +1,11 @@
+table:
+  name: trains
+  schema: railroad_systems
+array_relationships:
+- name: operators
+  using:
+    foreign_key_constraint_on:
+      column: train_id
+      table:
+        name: operators
+        schema: railroad_systems

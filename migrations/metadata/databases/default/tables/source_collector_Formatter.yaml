@@ -1,6 +1,12 @@
 table:
   name: formatter
   schema: source_collector
+configuration:
+  custom_column_names: {}
+  custom_root_fields:
+    select: formatters
+    select_aggregate: formatter_agg
+    select_by_pk: formatter
 object_relationships:
 - name: Connection
   using:

@@ -1,4 +1,4 @@
-CREATE OR REPLACE FUNCTION gen_unique_short_id() returns text
+CREATE OR REPLACE FUNCTION railroad_systems.gen_unique_short_id() returns text
     language plpgsql
 as $$
 DECLARE
@@ -11,4 +11,4 @@ BEGIN
 END;
 $$;
 
-alter function gen_unique_short_id() owner to postgres;
+alter function railroad_systems.gen_unique_short_id() owner to postgres;

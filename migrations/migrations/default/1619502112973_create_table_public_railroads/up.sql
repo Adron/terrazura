@@ -1,0 +1,1 @@
+CREATE TABLE "public"."railroads" ("id" varchar NOT NULL DEFAULT gen_unique_short_id(), "name" varchar NOT NULL, "history" text NOT NULL, "description" text NOT NULL, "hq_city" varchar NOT NULL, "service_area" text NOT NULL, "map_link" text NOT NULL, PRIMARY KEY ("id") );

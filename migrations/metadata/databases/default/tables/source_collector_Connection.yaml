@@ -1,6 +1,12 @@
 table:
   name: connection
   schema: source_collector
+configuration:
+  custom_column_names: {}
+  custom_root_fields:
+    select: connections
+    select_aggregate: connection_agg
+    select_by_pk: connection
 object_relationships:
 - name: Activity
   using:

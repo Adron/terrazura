@@ -1,1 +1,1 @@
-DROP FUNCTION gen_unique_short_id();
+DROP FUNCTION railroad_systems.gen_unique_short_id();
