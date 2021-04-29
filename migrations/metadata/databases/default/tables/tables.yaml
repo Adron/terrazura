@@ -1,3 +1,4 @@
+- "!include railroad_systems_railroads.yaml"
 - "!include source_collector_activity.yaml"
 - "!include source_collector_connection.yaml"
 - "!include source_collector_formatter.yaml"
