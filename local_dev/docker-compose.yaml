@@ -12,7 +12,7 @@ services:
       MSSQL_PID: Developer
   postgres:
     container_name: pgdb
-    image: postgres:12
+    image: postgres:11
     restart: always
     volumes:
     - db_data:/var/lib/postgresql/data

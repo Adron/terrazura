@@ -1,1 +1,0 @@
-CREATE TABLE "public"."railroads" ("id" character varying NOT NULL DEFAULT gen_unique_short_id(), "name" varchar NOT NULL, "history" text NOT NULL, "description" text NOT NULL, "headquarters_city" varchar NOT NULL, "service_area" varchar NOT NULL, "map_link" varchar NOT NULL, PRIMARY KEY ("id") , UNIQUE ("id"));

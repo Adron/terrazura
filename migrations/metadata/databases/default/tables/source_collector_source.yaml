@@ -1,22 +1,18 @@
 table:
-  name: NoteJot
+  name: source
   schema: source_collector
-object_relationships:
-- name: NoteJot
-  using:
-    foreign_key_constraint_on: NoteId
 array_relationships:
-- name: NoteJots
+- name: connections
   using:
     foreign_key_constraint_on:
-      column: NoteId
+      column: source_id
       table:
-        name: NoteJot
+        name: connection
         schema: source_collector
-- name: SourceNotes
+- name: source_notes
   using:
     foreign_key_constraint_on:
-      column: notes_id
+      column: source_id
       table:
         name: source_notes
         schema: source_collector

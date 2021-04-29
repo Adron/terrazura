@@ -1,17 +1,10 @@
 table:
   name: source_notes
   schema: source_collector
-configuration:
-  custom_column_names: {}
-  custom_name: source_notes
-  custom_root_fields:
-    select: notes
-    select_aggregate: note_agg
-    select_by_pk: note
 object_relationships:
-- name: NoteJot
+- name: note_jot
   using:
     foreign_key_constraint_on: notes_id
-- name: Source
+- name: source
   using:
     foreign_key_constraint_on: source_id

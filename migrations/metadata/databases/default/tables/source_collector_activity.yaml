@@ -1,14 +1,8 @@
 table:
   name: activity
   schema: source_collector
-configuration:
-  custom_column_names: {}
-  custom_root_fields:
-    select: activities
-    select_aggregate: activity_agg
-    select_by_pk: activity
 array_relationships:
-- name: Connections
+- name: connections
   using:
     foreign_key_constraint_on:
       column: activity_id

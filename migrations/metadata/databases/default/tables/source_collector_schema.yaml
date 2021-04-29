@@ -1,0 +1,7 @@
+table:
+  name: schema
+  schema: source_collector
+object_relationships:
+- name: connection
+  using:
+    foreign_key_constraint_on: connection_id
