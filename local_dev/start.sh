@@ -1,6 +1,10 @@
 # Start local API and database containers.
 docker-compose up -d
 
+# Add Databases
+terraform init
+terraform apply
+
 cd ../migrations
 
 sleep 3
