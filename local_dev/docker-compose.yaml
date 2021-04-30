@@ -1,7 +1,7 @@
 version: '3.6'
 services:
   sqlserver:
-    container_name: slqserverdb
+    container_name: sqlserverdb
     image: mcr.microsoft.com/mssql/server:2019-GA-ubuntu-16.04
     restart: always
     ports:
@@ -30,8 +30,8 @@ services:
     - "sqlserver"
     restart: always
     environment:
-      HASURA_GRAPHQL_DATABASE_URL: postgres://postgres:postgrespassword@postgres:5432/postgres
-      HASURA_SQLSERVER_URL: Driver={ODBC Driver 17 for SQL Server};Server=sqlserver;Database=master;UID=sa;PWD=hasuraMSSQL1;
+      HASURA_GRAPHQL_DATABASE_URL: postgres://postgres:postgrespassword@postgres:5432/coredb
+      HASURA_SQLSERVER_URL: Driver={ODBC Driver 17 for SQL Server};Server=sqlserver;Database=sales_data;UID=sa;PWD=hasuraMSSQL1;
       ## enable the console served by server
       HASURA_GRAPHQL_ENABLE_CONSOLE: "true" # set to "false" to disable console
       ## enable debugging mode. It is recommended to disable this in production

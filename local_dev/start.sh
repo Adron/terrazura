@@ -1,9 +1,16 @@
+SAPW='hasuraMSSQL1'
+
 # Start local API and database containers.
 docker-compose up -d
 
-# Add Databases
-terraform init
-terraform apply
+# Get a user defined Postgres database available for migrations and connections.
+docker cp db-starters/init-postgres.sh pgdb:init-postgres.sh
+docker exec pgdb chmod 700 init-postgres.sh
+docker exec pgdb ./init-postgres.sh
+
+# Get a user defined SQL Server database available for migrations and connections.
+docker cp db-starters/init-sqlserver.sql sqlserverdb:setup.sql
+docker exec sqlserverdb /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P $SAPW -d master -i setup.sql
 
 cd ../migrations
 
