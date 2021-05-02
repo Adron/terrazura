@@ -22,7 +22,7 @@ services:
       - "5432:5432"
   graphql-engine:
     container_name: api
-    image: hasura/graphql-engine:v2.0.0-alpha.9
+    image: hasura/graphql-engine:v2.0.0-alpha.10
     ports:
     - "8080:8080"
     depends_on:

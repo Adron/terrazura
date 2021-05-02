@@ -4,19 +4,11 @@
     connection_info:
       database_url:
         from_env: HASURA_GRAPHQL_DATABASE_URL
+      isolation_level: read-committed
       pool_settings:
+        connection_lifetime: 600
         idle_timeout: 180
         max_connections: 50
         retries: 1
       use_prepared_statements: true
   tables: "!include default/tables/tables.yaml"
-- name: SalesDB
-  kind: mssql
-  configuration:
-    connection_info:
-      connection_string:
-        from_env: HASURA_SQLSERVER_URL
-      pool_settings:
-        idle_timeout: 5
-        max_connections: 50
-  tables: "!include SalesDB/tables/tables.yaml"
