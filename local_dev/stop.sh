@@ -1,2 +1,2 @@
 docker-compose down
-docker volume rm local_dev_db_data
+echo 'Y' | docker volume prune
