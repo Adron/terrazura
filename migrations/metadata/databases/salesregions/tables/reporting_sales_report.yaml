@@ -1,0 +1,3 @@
+table:
+  name: sales_report
+  schema: reporting
