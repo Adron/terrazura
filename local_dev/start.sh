@@ -11,11 +11,11 @@ docker exec pgdb ./init-postgres.sh
 echo " ***  Postgres initialized.  ***"
 
 # Cuz SQL Server doesn't always start reliably in less than a few seconds.
-sleep 5
+sleep 8
 
 # Get a user defined SQL Server database available for migrations and connections.
-docker cp db-starters/init-sqlserver.sql sqlserverdb:setup.sql
-docker exec sqlserverdb /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P $SAPW -d master -i setup.sql
+docker cp db-starters/init-sqlserver.sql sqlserverdb:init-sqlserver.sql
+docker exec sqlserverdb /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P $SAPW -d master -i init-sqlserver.sql
 echo " ***  SQL Server initialized.  ***"
 
 cd ../migrations
