@@ -80,15 +80,15 @@ create unique index system2sales_salenote_uindex
 create schema reporting
     go
 create view reporting.sales_report as
-SELECT identifier as id, sale as amount, dtmark as timestamp FROM region1.region1sales WHERE shipped = 0
+SELECT CAST(identifier AS varchar(36)) as id, sale as amount, dtmark as timestamp FROM region1.region1sales WHERE shipped = 0
 UNION
-SELECT NEWID() as id, amount as amount, date as timestamp FROM region1.system2sales
+SELECT '' as id, amount as amount, date as timestamp FROM region1.system2sales
 UNION
-SELECT id, amount, stamp as timestamp FROM region2.sales_period_1
+SELECT CAST(id AS varchar(36)), amount, stamp as timestamp FROM region2.sales_period_1
 UNION
-SELECT id, amount, stamp as timestamp FROM region2.sales_period_2
+SELECT CAST(id AS varchar(36)), amount, stamp as timestamp FROM region2.sales_period_2
 UNION
-SELECT id, amount, stamp as timestamp FROM region2.sales_period_3
+SELECT CAST(id AS varchar(36)), amount, stamp as timestamp FROM region2.sales_period_3
 UNION
-SELECT id, amount, stamp as timestamp FROM region2.sales_period_4
+SELECT CAST(id AS varchar(36)), amount, stamp as timestamp FROM region2.sales_period_4
     go

@@ -1,1 +1,0 @@
-alter table region2.sales_period_1 drop column stamp
