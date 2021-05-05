@@ -1,0 +1,12 @@
+{
+  "name": "terrazura-data-generators",
+  "version": "1.0.0",
+  "description": "Data generation for test data, etc, for building and development of the Terrazura reference application.",
+  "main": "runitall.js",
+  "author": "Adron Hall",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "fs": "0.0.1-security",
+    "shortid": "^2.2.16"
+  }
+}

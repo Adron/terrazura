@@ -1,7 +1,7 @@
 create database sales_regions
     go
 use sales_regions
-go
+    go
 create schema region2
     go
 create schema region1
@@ -12,7 +12,7 @@ create table region2.sales_period_1
         constraint sales_period_1_pk
             primary key nonclustered,
     amount money default 0,
-    location nvarchar,
+    location nvarchar(100),
     stamp datetime default getdate()
 )
     go
@@ -22,7 +22,7 @@ create table region2.sales_period_2
         constraint sales_period_2_pk
             primary key nonclustered,
     amount money default 0,
-    location nvarchar,
+    location nvarchar(100),
     stamp datetime default getdate()
 )
     go
@@ -32,7 +32,7 @@ create table region2.sales_period_3
         constraint sales_period_3_pk
             primary key nonclustered,
     amount money default 0,
-    location nvarchar,
+    location nvarchar(100),
     stamp datetime default getdate()
 )
     go
@@ -42,18 +42,18 @@ create table region2.sales_period_4
         constraint sales_period_4_pk
             primary key nonclustered,
     amount money default 0,
-    location nvarchar,
+    location nvarchar(100),
     stamp datetime default getdate()
 )
     go
 
 create table region1.region1sales
 (
-    identifier varchar default NEWID() not null,
+    identifier varchar(16) not null,
     sale money not null,
     dtmark datetime default SYSUTCDATETIME() not null,
     shipped bit default 0 not null,
-    city nvarchar
+    city nvarchar(100)
 )
     go
 
@@ -70,7 +70,7 @@ create table region1.system2sales
 (
     amount money not null,
     date date default CURRENT_TIMESTAMP not null,
-    salenote varchar not null,
+    salenote varchar(1) not null,
     notes text
 )
     go
