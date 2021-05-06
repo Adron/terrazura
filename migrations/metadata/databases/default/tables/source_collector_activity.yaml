@@ -1,6 +1,19 @@
 table:
   name: activity
   schema: source_collector
+configuration:
+  custom_column_names: {}
+  custom_name: activities
+  custom_root_fields:
+    delete: delete_activities
+    delete_by_pk: delete_activity
+    insert: insert_activities
+    insert_one: insert_activity
+    select: activities
+    select_aggregate: activity_aggregate
+    select_by_pk: activity
+    update: update_activities
+    update_by_pk: update_activity
 array_relationships:
 - name: connections
   using:
