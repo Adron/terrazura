@@ -41,11 +41,11 @@ function system_2_sales() {
 
 var min = 50, max = 500
 
-// insertGeneratedData('insert1.sql', theTable + "1", theColumns, min, max, sales_period)
-// insertGeneratedData( 'insert2.sql', theTable + "2", theColumns, min, max, sales_period)
-// insertGeneratedData( 'insert3.sql', theTable + "3", theColumns, min, max, sales_period)
-// insertGeneratedData( 'insert4.sql', theTable + "4", theColumns, min, max, sales_period)
-// insertGeneratedData('insert_reg1sales.sql', theTableRegion1Sales, theColumnsRegion1Sales, min, max, region_1_sales)
+insertGeneratedData('insert1.sql', theTable + "1", theColumns, min, max, sales_period)
+insertGeneratedData( 'insert2.sql', theTable + "2", theColumns, min, max, sales_period)
+insertGeneratedData( 'insert3.sql', theTable + "3", theColumns, min, max, sales_period)
+insertGeneratedData( 'insert4.sql', theTable + "4", theColumns, min, max, sales_period)
+insertGeneratedData('insert_reg1sales.sql', theTableRegion1Sales, theColumnsRegion1Sales, min, max, region_1_sales)
 insertGeneratedData('insert_sys2sales.sql', theTableSystem2Sales, theColumnsSystem2Sales, min, max, system_2_sales)
 
 function insertGeneratedData(file, table, columns, minRecords, maxRecords, generateValuesFunction) {
