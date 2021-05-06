@@ -1,980 +1,616 @@
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('12e57c38-1d49-4d47-af38-fc3f38df297d','190','Georgia','2020-05-26T03:40:15.402Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b36a322f-f4bb-4328-a472-160599e35cb2','29','Finland','2020-05-28T10:40:15.479Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ecaf460a-fcf6-40ae-912d-b37e6654fb66','134','Faroe Islands','2021-01-04T20:57:47.759Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8059aadd-a474-4e15-8ef3-1e3372947c85','186','Bahamas','2020-12-09T02:03:43.170Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('da2f9350-c071-4422-a269-a8796c4348fd','91','Qatar','2021-01-18T07:21:39.176Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e541b415-a254-4b5a-937d-039b92d9fb9a','35','Iran','2021-01-26T17:09:46.882Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b0beb232-9771-4da5-850d-f00ec92ae6e2','23','Gabon','2021-01-22T21:43:51.706Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c4525599-072b-4a40-881f-d94123ebff86','61','South Georgia and the South Sandwich Islands','2021-03-29T06:11:42.513Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('86825ac7-06f2-4613-9f5d-85caccba549d','78','Azerbaijan','2021-04-11T01:05:13.325Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1cf3c7b5-aca2-4edb-b235-0273fa3fe970','76','British Indian Ocean Territory (Chagos Archipelago)','2020-08-06T22:01:34.513Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('de9f32eb-a099-43ca-9ebe-a7f244785523','161','Costa Rica','2020-12-23T04:04:22.973Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('babf5087-aeed-4f03-abc7-3149ccc02ffe','98','Congo','2020-10-05T11:26:57.007Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ad09f12c-80f4-4c6b-ae0a-e60c2149a1c9','171','Bahrain','2021-02-23T22:52:46.808Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0c4a3c9b-2e6b-47ad-b6cc-ed5a3c1e817a','61','Moldova','2020-09-19T05:13:41.247Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('609ae6f0-ce74-46eb-8d09-9e9f332ee103','178','Guam','2020-06-04T04:37:26.725Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a437b89b-d1ab-440c-ac2b-5ad2bdbddffe','75','Myanmar','2020-11-04T10:38:28.897Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8370eb85-23a6-4fd8-9207-a0eb0cf91f5d','60','Togo','2020-10-07T07:46:10.705Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e7773e9a-6f48-431b-a706-daa877b54115','98','Niue','2020-11-03T22:22:45.343Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ee40435a-46fa-42dd-a20f-524112c32094','163','Saint Barthelemy','2021-03-12T12:51:38.051Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f983ec3e-4533-478e-835d-8aab0992a5dc','15','Western Sahara','2020-12-23T12:05:55.955Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b06915ae-fd39-4673-ad6b-23b59d39b2a5','117','Saint Lucia','2020-09-08T00:56:59.737Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1a2122d2-3b02-49fc-a4e3-8d77d96f6ae4','115','France','2021-05-01T08:28:45.373Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('64e277d8-3e17-43a6-bc66-4fa00af54dd3','123','Equatorial Guinea','2020-10-31T00:54:51.359Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('da7f170d-0a5d-455d-bf1f-9537add510c7','163','Andorra','2020-05-09T19:04:58.875Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b4f58e8e-8e1f-424c-b310-67dc3edea154','90','Pitcairn Islands','2020-07-18T18:33:09.803Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f8edf1ff-b968-44e6-99c1-d2025af0b8a8','100','Mauritania','2020-11-27T08:55:04.662Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5be9e9d4-8774-43e5-b6bb-655a2aebf0a5','150','Sao Tome and Principe','2021-01-19T12:41:43.203Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('60e924b3-bc77-4e0f-bd03-b58484bdbd8b','155','Belarus','2020-09-17T03:07:26.970Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('64dd5cda-c858-44cb-aef4-df012627b36a','58','Swaziland','2021-04-26T14:32:43.342Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6a0a25fc-e9e8-4311-9de1-34a227a10b2c','117','Peru','2020-11-04T06:35:30.630Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f795a563-e5f7-4f03-9983-850679206039','187','United Kingdom','2020-07-04T07:35:41.638Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('bff23540-4941-4dcb-9ad1-657acb11be1a','148','Germany','2020-07-31T04:56:08.245Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('58f3c624-d9a7-49d3-a3e9-af953518df75','128','Croatia','2020-10-27T10:44:52.760Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('052bcc27-c870-40a3-85ed-00c50fd1b34e','196','Iran','2020-08-16T09:06:08.342Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e5a24092-6392-4965-9a26-7159d959402a','131','Bangladesh','2021-01-11T01:53:53.474Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('dff66f3a-59e3-43e3-8de3-4bed162b5a0a','85','Malawi','2020-11-14T08:17:28.788Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0128ed4e-6ebf-437e-ae09-60c41c57d543','94','Sri Lanka','2021-04-14T16:52:11.421Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5cf42bc6-cb31-473c-8902-2ddf9902ff79','106','Seychelles','2021-01-28T01:13:52.763Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('61f28cf1-2806-4014-819b-b3306eabe4c2','18','Luxembourg','2020-08-09T21:23:24.142Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('05263e91-f0f1-420d-9ddd-5d65dd6bbea5','105','Equatorial Guinea','2021-04-10T13:51:02.920Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e62473eb-c2de-4068-a47c-eba2fc1b9597','157','Kenya','2020-08-05T20:38:25.552Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cd3b4a02-b113-46cb-a0ff-0f16b6196914','104','Lao People s Democratic Republic','2020-09-30T01:42:25.319Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d0ebcc91-a02f-4c9f-b975-55b5066383e4','45','Czech Republic','2020-09-02T12:59:01.039Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d71cfc94-de7b-479c-bb8d-c90f7498f793','142','Burkina Faso','2020-12-21T12:09:13.044Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cd544f85-fbfc-47fd-ab57-e26d5ebef414','63','Montenegro','2020-09-01T04:35:00.583Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9bea553b-0ee9-402e-99bc-5ebec32fa529','15','Pakistan','2020-08-09T22:26:27.214Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('dbfc4c0a-0499-47ef-bc94-27dc8950dcad','125','China','2020-09-19T13:47:46.192Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4330bc4c-8b53-4248-b109-5d03b2d2bfa8','162','Bolivia','2020-12-15T12:11:09.096Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b73bec0b-beec-4f50-875c-09f4b3bcb77c','111','Jersey','2020-06-26T04:37:36.150Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d828867f-e631-4bf3-bc02-a6153c583ce6','136','Lesotho','2020-05-21T12:01:58.924Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b4724601-a110-4425-8516-106815beeee1','190','Nepal','2021-02-17T16:43:41.410Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9ee73a33-2718-4146-917d-e523ff2b1433','28','Albania','2020-12-08T10:00:09.594Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('74d1294f-e473-4d1c-96ee-f4a161f69932','139','Virgin Islands, British','2020-11-06T06:39:09.370Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f7b731ab-52e9-4470-8a66-03b97421d060','78','China','2021-05-04T03:33:39.819Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d51aed03-ecbf-457b-982c-cb9b508ec3a4','55','Poland','2020-05-09T05:37:12.880Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7baf0bfd-5f3b-436a-8932-75b9e375982a','125','India','2020-10-19T05:02:21.396Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4bf121d9-97b9-4ed8-9fc1-c16356117707','149','Aruba','2020-12-09T09:39:02.752Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('82f51ff5-5576-4823-906a-6c1b9f630ff8','38','Ethiopia','2020-10-16T03:56:07.280Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b628da22-61cd-4e16-a535-df375cb6ac65','112','Burkina Faso','2020-07-01T15:39:17.696Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fb93fd07-58eb-498d-8e5b-5d94092590c5','35','Serbia','2020-05-30T08:46:28.783Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('677f3d91-29cb-4f07-ae5d-8fe007d2e3fc','91','Democratic People s Republic of Korea','2021-03-10T10:51:38.854Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('898d987c-4a68-4426-9834-c37431b6ce75','90','Isle of Man','2020-08-07T00:15:59.802Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('398599ec-c60b-44fe-bc50-4f584e1847da','198','Cape Verde','2020-07-21T08:26:51.747Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('42b52834-b36d-4b85-8768-4db199b86e54','50','Vietnam','2020-08-05T14:02:00.578Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b2a1f517-8303-4298-b5a0-5b43ddef91ea','156','Macao','2021-04-15T13:02:29.739Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('04a3bed6-9d83-4f39-b1cf-99b74502f57f','146','Australia','2021-02-25T14:48:32.366Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('07de0035-db2d-4275-9c31-c9dd4a7286d0','138','Yemen','2020-08-23T13:42:13.403Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c8cddc7e-2a7e-4591-bc17-d5cca7de1f38','59','United Arab Emirates','2021-01-25T03:46:33.386Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('027882ae-2a1b-4d63-9d9b-2dee29bccd86','55','China','2021-04-27T10:54:29.628Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b9f14dc3-2af1-4799-acbf-a27ba4023138','165','Djibouti','2020-12-22T07:34:11.772Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a02f84cb-144b-4d6c-a86a-99cf54f0d31d','72','Suriname','2021-02-13T10:32:54.310Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5c91176e-fe6b-4c36-8932-b74153e92942','173','Portugal','2020-12-27T16:07:44.173Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e6638792-a7e1-4324-93a8-deb4bc9ea331','107','Hungary','2020-05-15T15:11:20.936Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('01a174b0-c724-46a1-a715-4c0699c02100','108','Martinique','2020-05-29T09:00:05.832Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6a831e5e-098f-48b3-b69c-c0ae17434ebd','157','Cote d Ivoire','2020-06-02T19:03:55.982Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e48f14a2-d037-4a84-a239-1c44fa246ef6','76','New Caledonia','2021-04-23T19:50:57.925Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f3328534-af12-4d7d-a112-4b605a417316','65','Bhutan','2021-03-13T08:59:46.788Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('396e2b71-94d4-4405-90d1-1cfab471bf2f','40','Qatar','2021-02-07T17:55:39.180Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6f501896-9632-4cd7-9a6c-c722b6278505','157','Romania','2020-08-11T07:28:24.504Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d44f8bc8-2ed5-4732-9953-d88c30967318','65','Bosnia and Herzegovina','2020-08-28T11:25:59.856Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('54f339cd-8c52-49ac-b505-d501a1adb15b','32','Northern Mariana Islands','2020-06-24T23:54:38.449Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('90e702e8-d40b-4d22-afdb-cff82286a6e7','17','Bouvet Island (Bouvetoya)','2021-03-30T20:47:03.774Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c3162be8-d011-479f-aebc-aafb850b10f7','137','Haiti','2020-11-23T06:18:05.115Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ffcade6f-7289-448a-957f-2afc8e35b449','181','Saint Barthelemy','2020-10-22T10:59:29.773Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5ee07099-eb18-4e26-b681-e47a725d3a8c','27','Romania','2021-03-10T08:52:57.890Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c4560122-0742-4c0a-9936-8f4783e4db02','186','South Georgia and the South Sandwich Islands','2021-01-03T01:48:30.701Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f9ddc992-2acd-45c2-a8f0-726dbdb6f841','170','Anguilla','2021-02-26T03:25:05.024Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('61c84995-5f45-4d76-9458-2e4316d0e80b','110','Guernsey','2020-10-19T23:15:48.506Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c21d9655-ca55-4f27-bb55-976ee4ab9379','37','Sierra Leone','2021-03-16T07:37:41.039Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a8c6b15b-5ada-4dd3-8c50-ff5cd0f1b0cd','165','Ukraine','2021-04-19T23:55:32.389Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c0636207-2c12-477a-b341-a817d86fc1a8','149','Norfolk Island','2020-12-27T23:23:54.425Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3408a5ac-0f33-4581-84e4-c87c6d0b7fd5','113','Indonesia','2020-11-19T17:38:11.037Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('343e333f-7b46-4801-9f8b-344e998912eb','22','Serbia','2020-10-30T08:06:47.818Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0325ed82-35dc-4d82-a5ba-c4d87b89f4a8','82','Colombia','2020-12-05T20:15:39.170Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ff882639-9573-498d-9fa5-2a86a87a192a','25','Mauritania','2020-05-30T01:16:16.050Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('aac3d80c-0eff-45a4-a3b6-4caac3916127','47','Zimbabwe','2021-04-15T06:20:58.286Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4d45d728-11ee-4b9d-bcb0-466d8cd14b01','122','Congo','2021-01-07T04:24:38.994Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c2acee1b-2e39-4289-80cc-07d82ef82555','62','Chad','2020-11-17T09:04:38.040Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8630968f-803a-4cdd-ae42-dc7521800f7d','154','Oman','2020-09-18T01:01:17.750Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('618e51b5-d497-451c-858e-d75cc2ef4e87','50','Grenada','2020-08-11T02:58:06.649Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('420a9f9b-8dfd-4d8d-9d8a-781b4663cb9d','112','British Indian Ocean Territory (Chagos Archipelago)','2020-09-02T20:53:01.608Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('045fcfa0-0cbc-46a5-8faa-d38529312d84','117','Georgia','2020-07-21T08:43:22.237Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0a0df89b-8990-4474-8309-507b3ad5e10c','37','Iraq','2020-11-13T19:50:45.791Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('dc2a9e56-ac62-4a78-a741-55b5704d47ce','101','Saint Barthelemy','2021-02-04T03:50:43.160Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8b81f92f-dbbc-4ac4-a21e-d02a4fbe88d8','160','Peru','2021-02-21T08:19:36.246Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('07466f7e-1d0b-4a89-8405-4df38e0e3e27','156','Japan','2021-01-03T17:57:24.627Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a03fcb15-3d5e-4d69-8e20-ec5047a22394','42','Tonga','2021-01-20T15:23:53.605Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cbb1c3e2-ea04-4822-8eb6-d8c6db78422a','176','American Samoa','2021-01-14T04:02:29.001Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5068241f-d90b-405e-92e8-286bb74b8378','83','Sierra Leone','2020-09-09T06:51:11.190Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3574aa00-5d1a-4c14-8480-ad9c3a60482d','31','Iraq','2021-04-14T05:11:31.098Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f658bc1f-000e-44ed-894c-78ffbe2fa84f','195','Luxembourg','2021-03-24T22:00:07.430Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fdd6a7f5-83d4-4502-a91b-74ef6be5637d','56','Guatemala','2020-11-09T11:30:55.155Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3db3c4f4-8ef2-4e47-9a93-ebfad2d074c2','140','Cocos (Keeling) Islands','2021-03-14T07:11:20.065Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6f3db212-f96d-46d4-b48e-5ffe023beb42','162','Chad','2020-10-27T08:26:06.182Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3cd27e40-649a-4698-ada3-d4acd571976d','60','Rwanda','2020-06-30T00:25:59.857Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cee811ce-7931-40c2-bebd-8083e3bec739','78','Iran','2020-09-10T23:48:46.709Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('525db069-6e2c-497d-9a83-21128d6a0403','44','Guernsey','2020-11-04T02:49:55.818Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8b28ef10-6061-4de8-8465-533a23a62033','168','Mongolia','2020-09-20T05:41:27.044Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('02d78402-5b9e-4e76-a4b7-5558691d76c8','43','Dominican Republic','2021-02-13T14:09:15.903Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8845a736-f64b-4708-8843-576977d64f94','25','Macao','2020-06-22T23:27:38.114Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2b257c2d-463d-4f89-b315-558c2ed4c7cb','61','Uzbekistan','2020-10-07T01:03:39.842Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('110b71bc-6c34-4d16-a562-d0b8f6a22f38','100','Belize','2020-07-21T03:28:02.659Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4a50bab4-2f8d-4fe2-8663-6924e9a2fdcb','161','Montenegro','2021-04-04T23:41:28.551Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('03d09f92-6817-4837-b4fa-71bf239a4e18','24','El Salvador','2021-04-04T14:38:40.789Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('abb98a98-78a8-49d7-89a3-d8429a14938d','84','Bhutan','2020-07-12T11:24:32.652Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ec3d12dd-abb5-4568-bd8f-c803d31d403f','168','Lebanon','2020-11-27T17:17:55.490Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c52fc3a0-8aa1-4a24-bca3-05009b1d72de','153','Croatia','2020-09-21T02:54:27.578Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e3572c70-45ba-4c6f-bb39-4bf75aaf518d','174','Denmark','2020-10-31T20:21:17.831Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('152bf98a-8194-43f1-9a28-f178cd604d06','185','Heard Island and McDonald Islands','2020-11-03T19:26:03.064Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('32f4c984-05d2-41bc-80b4-eebcaf5e44d3','53','Svalbard & Jan Mayen Islands','2020-08-25T09:33:09.435Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('62f7eb9c-5f50-460e-8193-593adab039e0','172','Poland','2021-03-18T12:14:27.390Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('478c86db-d2a5-4719-b604-94ab54022955','36','Haiti','2020-12-12T22:35:00.978Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f34c6555-b851-4ac6-aebb-a624605ab00a','150','Nauru','2020-05-22T06:10:16.845Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('44efc551-38cf-4fa7-923c-0971d3c5c82b','17','Norway','2021-03-02T17:56:19.114Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f9014852-a0d1-4e7e-8613-dc3bb8ddd640','29','Cook Islands','2021-03-28T21:00:25.682Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('84763fd7-cb8b-4486-ad05-110984504711','174','Colombia','2021-03-19T01:35:29.033Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4b645c68-d8b4-4d64-b075-8d53ded0f04d','186','Democratic People s Republic of Korea','2020-06-24T14:36:31.053Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('bbd46765-ce0f-4a23-8ad7-e8f32e84c85a','126','Zambia','2020-05-22T04:13:03.357Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a8853bd1-53ab-4cc4-aa5d-b17a686683e6','53','Sao Tome and Principe','2021-01-10T12:51:58.931Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('bab8098a-0e11-4f2c-8c7d-554b04574900','38','India','2020-12-08T16:15:36.352Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f770c834-dcea-465b-81dc-48b1092bcf17','195','Antarctica (the territory South of 60 deg S)','2020-09-14T13:27:28.366Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('57bbe6dc-2f3b-4328-8290-f4a1c1d3f653','148','Macao','2020-07-30T08:46:43.978Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9e2459b2-fb2a-4de1-bcfd-3f30e854f950','110','French Polynesia','2020-08-04T00:26:58.655Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4de7e001-4a88-48cf-baef-6bb9311e82de','157','Saint Barthelemy','2020-08-19T08:00:54.846Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d95078ce-e546-4a71-b8bc-bdab38bcca65','197','Jordan','2021-03-27T00:56:22.429Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('22ccb11c-1a39-4540-93e5-5d7046d5d83d','51','India','2021-03-22T06:04:18.126Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('49fe79b3-6fdb-4e50-9331-92975687581d','119','Uganda','2020-06-02T14:50:59.245Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('26c23188-cf66-4372-8a38-82d3f4431b55','62','Gambia','2021-02-26T04:55:52.456Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f006da93-b923-4c99-b40b-d0f55b63eac1','195','Northern Mariana Islands','2021-04-08T07:44:38.497Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6d4660d9-9c3b-414e-850a-7ace770a4940','15','Burkina Faso','2021-02-13T13:59:28.319Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0c7e08e4-f00a-4f5c-a59f-65b06b48db31','71','San Marino','2020-11-14T04:16:57.202Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9e719454-9b43-48b0-88ed-b70fb353d649','159','Saint Pierre and Miquelon','2020-07-09T17:30:00.806Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5a061692-9db4-4e14-8afd-870aaf229fd6','89','Germany','2021-05-03T16:18:56.347Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('505c2fb7-ab56-45ac-bdad-9fbc6b964c13','173','Morocco','2021-03-16T13:14:59.870Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('892dffad-e83c-48ba-b707-1dc6461ad5dc','119','Dominica','2020-07-02T04:43:54.847Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ecba8771-0d29-41d3-948b-17d0809ae2f9','156','Kuwait','2021-03-19T19:51:23.200Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('47e1ec62-56fe-4852-ad07-1ff0bbec6f9b','92','Hong Kong','2020-10-06T15:42:10.584Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('aa6e2a5e-e2ec-4a86-90af-e9217a91d6c7','89','Tonga','2020-12-03T19:24:53.212Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('43ed33ab-df13-40cb-ae39-6d4ec6a8babe','17','Kiribati','2020-05-16T21:21:44.086Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e47bb6ef-2bd6-4de5-86c9-4e53d803e0b1','77','Gabon','2021-01-09T16:01:50.566Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4c4dca85-8342-49f7-8e8b-1bed3c8e5ec0','170','Northern Mariana Islands','2021-04-15T22:49:26.371Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('994fa832-eed5-401f-b5f5-b2dc470df09b','197','French Polynesia','2020-05-12T20:24:52.905Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ebdcc976-5a12-4d22-8112-bb2b11d64669','133','Western Sahara','2020-12-23T09:48:23.929Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e246d5e2-dcd0-4132-9def-3b5c409218ef','145','Tanzania','2020-10-12T01:57:48.332Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8b8dc7c9-d995-4700-ab66-f67303de875f','31','Tanzania','2020-05-23T11:47:58.471Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('274dd5f1-0a0b-4932-a8c8-06429af3d9e5','43','Cape Verde','2020-10-23T14:59:34.852Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('dfb42729-488b-4662-bb86-dd93560bed9f','185','Jersey','2020-05-31T20:10:17.728Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8f221aab-2491-410f-85b1-a572eaf4d646','193','Venezuela','2021-02-23T13:19:34.028Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f8400fc1-4420-42cc-9204-1b779d4c0f99','105','Turkey','2020-12-26T12:41:55.733Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('61e27d53-490b-465a-bdf1-41d72ec250b6','18','Zimbabwe','2020-08-02T11:29:56.915Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c4dde7be-85e9-42b1-bc56-e653e46cfaac','193','Canada','2020-09-20T07:53:20.986Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1a7a651d-9e38-482f-b69a-eb973f31b76c','144','Azerbaijan','2020-08-21T03:49:02.687Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7093a32f-1de1-479e-bd71-129ab6558ea1','49','Niue','2020-10-31T00:26:37.896Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a3c03b87-da50-4f1c-b728-3820d7cd1862','174','Romania','2020-07-03T23:16:48.669Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('bf45afbf-0dbc-4140-85d7-4068e1b0b1b1','112','Greenland','2020-06-14T21:59:16.194Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('953e6055-1c79-4764-b89d-f038736ccbcf','22','Honduras','2020-12-25T05:07:26.332Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2917ca4f-029b-4bf6-a817-2ba2fbde606d','184','Gambia','2021-04-20T19:26:06.449Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8d3650e5-f454-4444-8ed2-cdb5a9587038','139','Liberia','2020-05-09T04:54:09.592Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('dabe9550-8a3e-42c7-9ca5-7a56a4f90f85','27','Venezuela','2020-07-11T23:48:50.912Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c17c077c-bf69-43fb-a486-03eca4b3569c','65','Croatia','2020-08-28T02:47:50.977Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8a0cf3a0-3fb4-4205-955f-48bd9d75a2b9','131','Pakistan','2020-06-03T08:24:22.496Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1710e778-902a-4552-b910-3073f7bc79cf','179','Tuvalu','2020-11-30T17:16:29.545Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('40f63900-97e9-411b-9fff-404d944e8f33','123','Niger','2020-08-15T02:00:46.185Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9773f820-5c31-48f7-849f-bad921be8d5f','48','Estonia','2020-10-25T19:13:23.543Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5a386057-3e5f-491f-bc10-b62bd7e040fa','194','Nauru','2021-04-01T10:12:20.830Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e2fcce10-a943-47e0-815e-3c1205e5fd9d','185','Malta','2021-04-27T09:10:07.745Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('27728b74-4551-4115-926b-a5d5a0a346f7','32','Croatia','2020-08-22T10:18:41.522Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ade345f6-dbad-4119-b261-65471fb0af17','152','Paraguay','2020-09-03T15:23:53.009Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('17dba7eb-28f2-4baa-bfa6-2ed3f7196452','178','Martinique','2021-04-29T09:28:16.671Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('53db7b01-1cd9-4f5f-9d6b-08a2e809602a','49','Timor-Leste','2020-11-24T13:29:21.729Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2bcdf7a7-81cc-4405-9122-fefc38a849e8','145','Sierra Leone','2021-02-26T03:31:56.105Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3b9c66d0-ff69-4ef1-a943-99cc0bdeb8a2','86','Tokelau','2020-12-24T20:14:18.901Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c0cb5474-71ab-4bd5-813a-c8ddd5a5e92f','29','Guam','2020-06-10T12:10:08.309Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('20a3acb2-ed4b-4d3b-acb9-bcf33cbf4121','122','Philippines','2020-05-11T13:21:06.194Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('57cef496-5ea1-41aa-a44e-b0ef9a320e89','43','Niue','2021-02-09T22:08:09.297Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('524df856-24b2-46be-962f-873a858c541b','98','Saint Barthelemy','2020-07-23T08:25:25.864Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('69e4c7ec-c84b-46be-b192-77f0f05074c5','171','Slovakia (Slovak Republic)','2020-09-08T22:40:13.281Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3fdee553-88f4-4a4f-863d-75c06df96aa6','22','South Africa','2021-05-05T16:10:33.943Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d396bbde-d2d4-44d0-9da5-324481acb129','177','Luxembourg','2020-06-21T16:52:49.852Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7615cd0c-b96f-4fd4-ac00-aa20f756a3fa','125','San Marino','2020-10-20T00:45:09.198Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('485af067-7cc4-41e6-af23-56095eb4d460','44','Western Sahara','2021-02-15T12:27:22.044Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c151be75-9cea-4df7-9f22-52dfa7293a95','89','Zimbabwe','2021-03-23T15:21:29.630Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d81e4028-c3ef-4eb8-a2ba-74963cf9513c','64','Bhutan','2020-09-29T18:26:51.645Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c984e11c-bb3c-497d-9104-f0be9ce8db3f','133','Slovenia','2020-08-16T15:35:36.095Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('19877f1b-d23c-48d5-a23d-069992a5b647','43','Liberia','2020-08-07T01:28:54.872Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8a8913c5-8dc5-4de6-896b-10a3eba9e1e8','65','Saint Vincent and the Grenadines','2021-02-19T10:32:02.935Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d9f03fa4-4eb4-4f8a-9415-51d665847021','198','Serbia','2021-02-08T16:43:28.749Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('74e79d4b-ba2a-4d34-80d3-edf78e7ee6e1','178','Oman','2020-12-02T13:56:43.930Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d76d164c-4190-4e4b-af09-f81c92a4840c','131','Saint Helena','2021-01-16T16:14:53.298Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('59d33691-4963-4613-b743-46012ce52544','103','Switzerland','2020-11-28T02:51:52.131Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cfd21870-2697-49a8-82b5-56fd4dff8b29','71','Jordan','2020-10-12T20:40:07.930Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5fb4aced-8b65-41d1-aab8-6f65a77b8821','72','Guernsey','2020-12-16T09:50:24.412Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('95246c7f-ef3b-465a-a8bd-af74fc8a245f','127','Malta','2021-03-07T10:34:08.395Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('406ea39b-8ab2-4d82-b11e-f0e2a80436c8','64','Belize','2021-01-08T19:59:33.552Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a974964f-2892-44f5-a372-8501b3353b95','151','Saint Helena','2020-08-06T21:13:38.701Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1baeef13-957f-4d9f-a5d9-43eec055f995','86','Western Sahara','2021-01-28T09:09:14.265Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a408183e-3ac0-45c3-8b0d-e953f1e27013','146','Egypt','2020-08-11T18:10:26.348Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('56ad9a89-5b94-478d-95f3-cd1ae0d6ab9a','58','Belgium','2020-09-11T02:35:42.538Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2ab97676-9dea-49c4-94aa-71d9fd0e4a82','80','Spain','2020-08-02T12:17:57.893Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('03dba875-c1c0-47a5-86ff-dbec83c86a72','60','Turks and Caicos Islands','2020-12-13T01:04:05.808Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7ad14c77-150c-4b76-8549-2565f3f72325','78','Guinea','2020-11-13T13:06:32.053Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('aad4d445-339c-430b-b9a3-424909d14693','173','Mexico','2020-08-30T14:43:20.851Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c6888b9f-1748-417a-b3f5-caa12279c5e1','126','Japan','2020-09-28T00:44:47.736Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('42db40b9-8fbf-4888-be03-8fbbf0b915e8','90','Tunisia','2021-05-04T08:03:51.702Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('691c915b-929b-4e8d-b3fb-8bca2e7caa4d','196','French Southern Territories','2020-09-04T03:45:41.522Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3d90e0ea-c782-4934-9ec5-937cc342ef0d','138','Virgin Islands, U.S.','2021-01-29T01:10:17.908Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('dfaadcd7-cf5b-4346-97b4-5b48bf24d71e','162','Cook Islands','2021-04-29T10:04:18.713Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ea770a5f-cb41-47a1-9d11-7a3f72e16b32','26','Estonia','2020-12-19T04:24:44.587Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('74a42aa4-3953-474a-aab3-e25dd47936b6','187','Guadeloupe','2020-12-05T23:13:16.942Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('bf9f5481-d39c-4284-894d-2bffd1d222dc','187','Comoros','2020-05-12T16:23:15.040Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2669ba0b-84f5-4e67-81b3-b829f44a19e1','103','New Caledonia','2020-07-13T07:05:34.046Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('51f65132-7f35-4efb-8e67-44293465799c','62','New Zealand','2020-12-02T14:48:28.977Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4a39779f-7292-4a1a-8f89-75233398800b','65','Bahamas','2021-03-15T15:58:37.301Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('863ac800-7cbd-46ad-91ab-441aa3a011a1','66','Montenegro','2020-08-16T07:05:09.775Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('82e2cdd6-6a69-4d19-bc63-c6fe64b3fb94','117','Falkland Islands (Malvinas)','2021-04-08T13:36:57.801Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('eeda264a-d513-4db9-b6d0-a5dcc3573191','113','San Marino','2020-09-29T08:25:51.923Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f21df12b-b2d1-4a80-ab33-2ca0109787f1','180','Belize','2020-11-30T11:36:42.631Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('29b7e8f0-8849-4ab8-b66d-dad273d97d70','175','Equatorial Guinea','2020-09-22T04:44:52.784Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c926b4e7-fa46-447a-9f23-6665dac2c38e','138','Cameroon','2020-09-28T20:43:10.552Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('bfffd597-f9dd-4b09-85cd-7c94cc630588','161','New Caledonia','2020-08-09T18:21:07.379Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fafa1cce-7f7c-457b-ae12-bb93d6d0163d','139','Mozambique','2020-12-20T23:05:38.709Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('95c5cd3d-f913-470a-8d40-03e5965c5921','74','Nicaragua','2020-08-15T21:15:36.739Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('75124a4d-c9ee-4d5a-baff-b7055dad7ae4','78','Liberia','2020-10-08T05:47:05.291Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('87b4b865-6048-4562-be7f-427cfb5c9230','125','French Guiana','2020-10-27T02:37:30.168Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('55e8f0bf-b696-466c-9b9f-d8b4375b44d5','177','Nigeria','2021-03-09T12:53:13.389Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6fff0b6e-7d55-4c3e-abac-276e8cf3eb0f','20','Lesotho','2020-07-25T23:06:42.973Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c45c1c48-5e35-430a-963e-3beb4671af1d','57','Saudi Arabia','2020-12-02T16:39:04.646Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ba7d04ea-a366-435f-89b4-a0fbb2acc465','63','Reunion','2020-08-30T13:47:37.173Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e66785a5-a641-49aa-9cd2-ed9164014e6b','87','Chile','2020-05-19T11:19:43.506Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('93c503da-7854-4004-b9e7-8bf9cf4b00a9','37','Cote d Ivoire','2021-04-11T09:47:55.073Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ea82db2c-fd80-463a-a28d-2cdf581af167','51','Ukraine','2020-11-23T14:56:28.372Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('134dbcaa-66a5-4cdb-b429-124027f5d95d','82','Algeria','2021-03-18T19:22:31.183Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f75c9cb1-27c6-4277-8037-58cfa88e70b4','74','Kuwait','2020-07-06T20:10:34.777Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('de7ca0f7-83db-4b2b-8d08-8bf9f431511b','170','Canada','2020-11-09T21:25:14.354Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0bdb1a95-23dc-484f-8bc2-4283f4a982ec','189','Trinidad and Tobago','2021-01-19T13:09:43.348Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ca38ce55-80a0-4e13-a97b-6d2e8fe7d3ca','193','Guatemala','2020-10-23T19:31:15.058Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3becea55-1b0e-474e-b2a0-7d45b54be190','70','Nicaragua','2021-01-21T00:55:40.320Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('44a57191-e2c1-4c41-8454-b65a08ba1339','106','Guatemala','2021-01-11T12:45:34.611Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('32cdb8a3-c049-4075-9340-ad95c9ca34ac','163','Cuba','2020-06-10T07:42:24.381Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('41d4735c-97ee-400f-bab2-5f303cc78f97','177','Myanmar','2021-01-22T18:19:37.777Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1cc7a998-efc7-4dad-9d74-b576fec03652','54','Cayman Islands','2020-05-15T08:44:49.032Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ded174a5-07b4-4e87-9fa3-5901743f741b','21','New Zealand','2021-02-09T08:26:57.109Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c29858a4-70c9-4c25-b7b0-3036fb5c532c','178','Northern Mariana Islands','2020-07-16T12:09:59.335Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f559ef69-f041-4d57-ae0f-42e8bf4cb119','75','Madagascar','2020-06-02T13:13:00.667Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6bf4c779-8c20-4edb-957a-1330521ae623','111','Saint Lucia','2020-09-14T00:21:23.062Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('42c1f8cd-cbaf-442b-a504-272d24adfd00','46','Sao Tome and Principe','2020-05-29T15:41:05.055Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cc2cef6b-8591-4c72-9051-1cb76b6dffbb','132','Austria','2020-09-21T15:16:49.510Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('05d47399-f175-46e7-a774-b461f2ab25f4','35','Iraq','2021-04-09T00:39:30.544Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b271d93b-2f72-4769-8456-658d60a8280f','54','Saint Kitts and Nevis','2020-06-24T23:19:30.163Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('84b17163-3f54-44fd-9f6a-eabb8d6a0d9e','17','Slovenia','2020-12-14T01:39:48.694Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('07dfa411-86d3-4635-a32b-9daff56aee05','153','Pakistan','2021-04-26T15:40:07.721Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('728fe4f9-b18c-42a7-bc31-f9e579f85f3f','67','Malta','2020-05-13T09:28:01.279Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('63dbe13c-e895-4b06-85a3-5cbadba39935','51','Pakistan','2020-10-21T13:53:05.609Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3721238a-9f12-4fc9-bfb8-242327c86e81','104','Montserrat','2020-06-23T11:16:07.916Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('786382f8-1180-4e9d-98ca-a414ebc0eb7d','22','Peru','2021-01-05T15:53:18.893Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e48011a8-bd99-4b83-a426-5f7f7d84253c','52','Antigua and Barbuda','2021-01-22T13:52:56.414Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2c088259-591d-4b8f-a178-2418405edf10','151','Japan','2020-05-18T22:48:38.807Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1cb37057-2753-4ed2-875b-d47107ab852a','128','Namibia','2020-07-25T17:37:45.583Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c022a41d-556e-4096-82c1-5899c35c198b','157','Azerbaijan','2021-05-06T03:52:58.758Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0d8f3d65-6a6c-4a49-a18a-7f5b37cdbb75','120','Kyrgyz Republic','2021-01-31T05:24:42.769Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8d7114ff-803f-4226-a659-61bb1ba1084d','164','Christmas Island','2020-06-30T08:29:49.227Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('eb9eb2e8-71ee-4afe-93ae-fd4e164ea710','39','Libyan Arab Jamahiriya','2020-08-06T18:45:00.895Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1afe1972-e480-4eff-83ad-3186c9554392','54','Slovenia','2020-06-22T11:02:11.362Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ef4c2d07-c94e-487f-ba44-203f34689084','179','Poland','2020-06-30T22:08:45.349Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e6641e11-2e2c-43a7-a8d0-d2fad191ea53','169','Venezuela','2021-04-30T04:23:36.747Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d570551f-c3e2-475a-957b-b7c00d20c4a1','21','Sudan','2020-05-20T04:45:31.836Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('204b830d-fab0-4f87-9886-8e255a3c809d','47','Zambia','2021-01-11T02:52:44.227Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('58ad1966-3f35-43ed-84e3-d2db10c2af20','50','Albania','2020-10-10T14:04:16.424Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b613600d-fab6-4da3-8629-78ed325e0464','155','Cambodia','2020-12-09T23:45:45.505Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('220c5d49-b2de-4f25-bd37-605195d9713a','45','France','2020-07-21T12:38:35.870Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cd4325fb-fde7-446d-9fd0-405d7a6bf82a','61','Thailand','2020-08-17T15:38:01.423Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4e0bcbd5-8356-4a7c-b140-a9a86c4922f3','48','Norfolk Island','2020-10-08T01:18:51.871Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6869a86f-ae43-4e77-bd90-751c2fa72e91','194','Saint Helena','2020-11-09T07:11:56.628Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cf3d8826-0fdd-4ee3-83b1-e367aa7a176e','94','Uruguay','2020-07-14T11:53:39.523Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9ba3f09d-3a39-43df-a941-629f93d381d5','112','Cuba','2020-08-28T18:24:26.188Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7a101aad-45aa-47dc-af06-1356d8d4cbfd','62','Iceland','2020-11-01T12:23:28.999Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e2956fdf-3f98-4b7f-8327-2acb7c1de2d3','126','Cote d Ivoire','2020-05-19T23:13:36.752Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b40cb332-38fa-41c0-bd31-49eeb4806c9f','35','Rwanda','2020-07-05T10:06:11.397Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a079c072-1436-4f84-ae0f-81778f010a8f','195','Pitcairn Islands','2021-02-25T12:13:17.683Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a2e70efc-0c53-4f76-8bdd-cdbbd2dbc0ec','184','Nauru','2020-10-26T13:29:49.522Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('88765e61-99ba-4eb6-b493-4ba8b5504d10','101','Iran','2020-07-08T21:26:08.557Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('dea35767-6834-4cf6-a935-6239f5f6476d','79','Libyan Arab Jamahiriya','2020-12-18T06:45:03.275Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('55f88c96-1562-4f43-a52d-a86c5b363f34','187','Liechtenstein','2020-06-29T00:37:41.813Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('17e23268-c49e-45d9-8464-aa76140c7af0','173','Isle of Man','2020-05-14T17:09:00.089Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f61b1cc6-9d6e-47b0-8eb3-99688dd8c792','53','Djibouti','2021-01-26T07:20:23.619Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7bbf92a8-58aa-4e1e-8348-426ea3d711e8','167','Mexico','2020-11-29T07:21:13.990Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7e578657-8b3d-42ef-9338-55f2970ad95b','127','Iraq','2020-07-05T17:47:53.126Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c281f497-408c-4854-898f-9edb4f9551d4','68','Brunei Darussalam','2020-09-29T04:02:17.569Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3b1a0b36-4e8e-41e7-a3e8-f2b8289796dd','114','Sri Lanka','2020-07-19T09:39:31.607Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('15afdabb-5a4e-47c6-b01f-0d9fc023ba24','165','Burundi','2020-11-28T15:24:42.433Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5968a0f0-2568-4216-83b9-957ca885574d','41','Guam','2020-11-13T16:06:38.432Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fc0039c1-45a4-46dc-af36-da0653d41824','81','Belize','2021-03-01T21:11:48.388Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('75adddeb-8ca3-4579-b58e-1d401dd0db4c','37','Chile','2020-09-03T06:01:53.314Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('07a418d1-b476-4510-bdc5-82a65b534dd5','134','British Indian Ocean Territory (Chagos Archipelago)','2021-02-19T05:01:20.439Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e92af384-331a-4d7e-a6bd-2c7352ff49d4','26','Liechtenstein','2020-09-01T21:01:46.764Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a5f3ddb6-34fd-47fc-816e-52ccdf256420','77','Czech Republic','2020-12-07T20:20:57.355Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e28cc859-1a36-41c8-8105-39b01f6ac432','96','Grenada','2020-08-24T22:28:17.419Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f8bc718e-17b6-4126-a05c-9c33f8906325','73','Norway','2020-11-17T22:02:54.594Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fbded315-9212-4364-b225-26f78e39f2ae','123','Republic of Korea','2020-12-07T20:45:55.883Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2c424777-c66c-48f1-95ca-3f695e0d6d59','27','Mongolia','2020-12-18T21:54:01.026Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c3f5a112-75c4-4df5-a0dd-394d41b8a34e','139','New Zealand','2020-06-24T10:52:17.518Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2e66a811-1e63-46f9-b6d3-621be049f2e1','160','Cyprus','2020-07-26T18:48:08.056Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('bca08b07-cc6a-4385-bd1b-c00c122a78ba','30','Cyprus','2020-08-10T20:27:29.414Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('845f1f3e-1fcb-46c3-8955-0a029f481dfa','57','Croatia','2020-07-15T06:06:51.031Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c2190fd3-c1d0-435d-b17e-7ca428f91eb5','181','Saint Kitts and Nevis','2020-11-28T04:48:40.186Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('404c390d-49c7-4a35-be58-143819b62db0','46','New Caledonia','2020-07-28T19:31:46.649Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7612e8cf-db0d-46e8-bef1-52de483a9c2d','31','Svalbard & Jan Mayen Islands','2020-06-24T04:23:33.117Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ffa2760e-0654-4c4b-a532-e3dfff655f3b','71','Kenya','2020-08-21T11:07:22.283Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8beb9039-3d7d-4452-ab99-43c610c60eab','100','Thailand','2021-01-22T19:42:46.726Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b8bce48d-e91f-4b78-9d0f-3cf56c91c799','77','Kenya','2020-08-13T09:28:37.527Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c5678d3d-b6a6-44a6-884c-67a86fd1f738','104','Democratic People s Republic of Korea','2020-10-13T06:12:17.883Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8ee1d198-5a18-48f6-80c5-faa1c83b7aa4','167','Comoros','2020-08-15T01:18:49.356Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5be371d4-0a4d-4acd-943d-e7457013d969','55','Solomon Islands','2020-11-13T16:34:25.315Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9683ec1b-f961-4d46-bea8-216c8628381a','169','Ireland','2020-08-07T04:13:46.580Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f7c408f0-928a-47cb-b2c2-c99afdfac111','171','Tunisia','2020-09-20T03:34:06.829Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d23d9eae-b645-459b-90ee-d3b7417235b8','81','Japan','2020-07-26T00:01:51.851Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('40d47086-216e-403b-8dea-b79be049c217','116','Mozambique','2020-05-12T02:48:56.239Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0406ac96-661e-42a9-b47c-b17399cf1802','173','Mali','2021-01-31T03:18:48.980Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ce364a63-ab37-4ef0-97e7-f7cc9cc4e9b4','199','Mali','2021-01-31T23:11:54.511Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c9982224-e2e1-40de-baf4-4d39e5879ba5','162','Saint Barthelemy','2021-03-28T18:12:33.998Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5c03f20d-a3b5-42b6-a916-ef4c75c703d9','34','Pakistan','2020-09-07T19:47:51.092Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d324f8a4-1e2e-4495-9cc5-7cdb8b8fc8c0','164','Oman','2020-11-11T01:27:50.552Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('09fbf6ad-dcbf-48d1-896e-83f0bfe09ebd','181','Micronesia','2020-12-17T04:19:50.443Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6e112bca-5150-4f5f-bc59-44d24a60bcaf','29','Palau','2020-05-25T11:19:21.680Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5d099fba-0aee-4e0f-983f-5d5818769631','93','Belize','2020-12-04T02:58:29.028Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e455af85-ed89-43c4-b8d9-20b6d2d3d1d1','123','Czech Republic','2020-12-10T00:42:40.845Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c6b8484c-b155-43dc-b5b9-d8df6e34ec0f','24','Libyan Arab Jamahiriya','2021-03-20T14:44:27.862Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b5194190-1512-4862-98af-664b056a879b','107','Luxembourg','2021-01-11T11:17:20.352Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1e0c373a-d96d-4440-9fbd-19e705e5b951','97','Cote d Ivoire','2021-01-26T22:05:00.629Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0ea1f89e-57c9-4182-95eb-eb9e715081c2','26','Kazakhstan','2021-01-29T06:34:12.289Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f1f77f3d-24a6-4f34-b1c7-24685a9f409e','32','Burundi','2020-11-15T22:16:38.489Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d486f3e7-7882-4fdf-aa78-535abcc7730c','163','Vietnam','2021-03-14T23:19:55.920Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2d09cc85-bbe2-47b5-ae08-d538deba3fe9','111','Ireland','2020-07-03T20:06:15.947Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6eb216fc-cdf0-425f-bdae-ac72052149a3','145','Isle of Man','2020-12-29T23:02:16.269Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d214eace-99bf-460b-93dd-78fc4942b544','152','New Caledonia','2020-05-31T13:35:56.915Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e613b822-7173-484d-9411-64f8dba6eb5c','148','Saint Martin','2021-04-23T09:18:16.390Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d1595616-67a8-4186-b700-7ee7baee6c31','80','Cambodia','2020-08-07T09:56:24.840Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f8e2c4f2-b7b4-46bb-9ff5-3c5e0422d568','168','Virgin Islands, British','2020-11-10T12:10:43.463Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('aab5a5c0-7696-466c-aa59-039aeadf1c9e','53','Mauritania','2020-08-10T07:48:41.709Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1b34ac5a-1dfe-4776-bea4-911ea2f56b34','130','Iceland','2021-03-23T05:48:31.543Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f536be25-f7c6-40eb-83ff-b939ae3fdbf4','76','Libyan Arab Jamahiriya','2020-10-05T18:54:49.150Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('45583580-85a9-410f-b126-c6cb19d68f96','32','Ethiopia','2020-05-28T23:29:03.391Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('063a4e7b-6856-43ca-a2b4-c255694e32f3','25','Angola','2020-07-05T14:08:02.695Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('89b87be7-7de7-4438-b9fb-2e638bb25e2d','101','Holy See (Vatican City State)','2020-08-03T20:19:06.664Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('26826b32-4b30-4df1-a25f-1d88097f2320','134','Malta','2020-12-09T21:30:02.026Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2678ff11-3516-4c19-b9fc-2b818129b52e','163','Palau','2020-06-29T03:58:00.937Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f74df7bb-b447-4e97-a47f-8ec33258c9d6','195','Christmas Island','2020-10-25T03:56:36.080Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3f3ad34f-ed4d-469e-921a-4fd9eb3b7e86','133','Holy See (Vatican City State)','2021-02-19T10:17:40.931Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('61bb8710-dc51-4685-a7f5-e1d7c74a84cb','56','Martinique','2021-04-11T04:09:05.129Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('953c6908-6000-4993-ad02-21ee599f5d32','169','Switzerland','2020-07-04T11:13:29.043Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6a304d8b-e758-464a-9cf5-922166eafbba','194','Cayman Islands','2020-07-14T07:26:21.809Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f03ef6fb-0497-4e04-99da-185a23aa0ae9','152','Comoros','2020-10-10T20:13:58.262Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6359d7c9-4618-4e20-8aad-4b8ea874cf23','15','Estonia','2020-05-18T12:24:55.527Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('44a5aa9d-f8d3-43ce-8e6b-64c6286a2d5a','87','Haiti','2020-09-10T07:44:58.003Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('810c9ef9-018c-4c43-a5cb-084eac846aa2','178','Norfolk Island','2020-09-20T02:33:00.644Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a067aad7-cffa-41a9-a494-38489a4275d7','85','Bermuda','2020-08-16T04:40:50.558Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('509c58f8-ef9b-4cce-9f2e-1c07bb9e335f','151','Micronesia','2020-10-21T00:11:58.690Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3ac65b8b-76d9-48b1-b3f2-72923af27b0d','20','Syrian Arab Republic','2021-02-14T05:07:16.577Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('81a96074-7d8b-428f-83a9-aee22bdef26e','37','Sweden','2020-07-24T22:29:25.946Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8a726469-1613-4cb9-a644-31c5643682d2','102','Portugal','2021-03-20T09:20:38.293Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4da4d06a-1e5d-4f9a-a5d2-3d4186a53da9','175','Afghanistan','2020-05-26T20:11:29.218Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a1cfe286-acc3-4433-bbd6-53aa80c9d3db','90','Marshall Islands','2020-08-15T16:13:41.724Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('29343190-c5cb-43fb-bec5-5a064c3b0560','39','Georgia','2020-12-05T20:26:42.252Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('bc60385c-0c27-4b21-bfac-7b82849ccdb3','137','Montenegro','2021-05-01T19:47:33.033Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('072acccf-f11d-40b4-af1a-2fec97d9993d','93','Turkey','2020-08-04T10:15:31.358Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5833a200-610a-4c9f-b09b-247b45a706fa','67','Moldova','2020-11-27T05:52:33.142Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2ed19a6a-b123-49de-a386-46e1e198c671','168','Timor-Leste','2021-02-13T14:42:42.366Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7a3185c4-b967-42b6-bb8a-6e1b26ceecba','189','Bhutan','2020-07-02T09:18:14.862Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f012704e-dbf5-41c3-878a-a55aaf148539','106','Chile','2020-09-30T21:14:24.737Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2680df1a-6c27-4a24-bfef-8959bb18a724','164','Micronesia','2020-12-17T08:32:43.404Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e1148cff-c288-437e-b511-19cb6b0419e4','133','Gambia','2020-10-24T14:48:29.050Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f16b8f7c-bd8f-4820-8550-4dc15a52adde','182','Austria','2020-08-04T06:29:42.119Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('47b61cb9-0fbf-47b5-a045-2b7ff229001a','111','Togo','2020-05-20T00:37:28.424Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f26b1966-17dd-4041-a158-0402fdaf4743','189','Christmas Island','2021-05-04T08:21:46.779Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('bed23fee-14f5-42a5-91e7-854167c52464','46','Mayotte','2020-08-28T00:01:39.451Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4f25a4fc-25ba-4151-adb9-d79c2d13775f','70','Cook Islands','2020-10-23T21:14:27.985Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3fd35208-607f-4150-8ce7-d4a3df66d344','73','United Kingdom','2020-05-14T05:42:22.918Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a21c0e3b-7e35-40d6-a1dd-ff245b39a1aa','63','Poland','2020-12-04T22:28:00.712Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8b1b061a-132a-4178-a91e-408b547164f0','160','Netherlands','2020-10-18T00:47:19.402Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('adea8b6b-5d40-40d6-a31d-2e2394b864da','184','Micronesia','2021-04-06T16:52:36.352Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2dabefa5-8b3d-465a-95f4-f8044275c6c1','119','Saint Kitts and Nevis','2020-10-26T07:14:30.916Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('70004b3f-2c9f-4708-a194-b6b858dbad61','195','Serbia','2020-08-12T21:27:18.603Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3bc2be3a-c086-4689-80fd-da4a16cf027d','195','Iran','2020-05-21T16:23:22.023Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cfd80518-8de1-4dad-8257-6a66fc48a42d','162','Croatia','2021-04-12T06:18:18.563Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4b11e8b1-bc26-4cff-95e8-3102ffd37037','134','Monaco','2020-11-14T07:03:18.191Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a8a5b609-4aaa-4781-b0b4-a21d75648c68','157','Ethiopia','2021-03-10T22:28:22.139Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e4189789-d21b-4d84-a1c4-005023160fb7','94','Chile','2021-03-06T05:57:33.630Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('db6ec03c-5bbd-4bc3-a346-23adea217b05','43','Zambia','2021-02-12T14:57:21.018Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('86c6467d-7380-4a2c-af5d-019dcc8c8eb0','25','Virgin Islands, U.S.','2020-08-11T03:43:19.190Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0b2a728e-7cb5-4875-92b4-5d7daa97a858','198','Paraguay','2020-09-06T07:32:26.018Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('45a228d8-6029-442b-adec-aa378a3cc2c7','112','Aruba','2021-03-25T21:34:02.352Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('44a187c2-187a-4d28-bfb9-58c3445e6480','95','Nicaragua','2020-08-19T19:45:12.067Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e414cefa-711a-43e2-bc80-b301371c5ce9','151','Vanuatu','2021-01-16T01:17:07.405Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b44a081f-d51b-4b7d-ae3b-998b830211cd','196','South Africa','2021-01-13T13:51:04.161Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2b9618b4-dcf6-484c-be5b-f49649c4039e','60','Antigua and Barbuda','2020-08-26T08:27:27.579Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6459e29c-b851-48e2-b243-41e28ef7b476','74','Cocos (Keeling) Islands','2020-12-26T19:30:10.815Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e461ecfa-672b-460c-bb8d-f3d61786896b','50','Paraguay','2020-09-29T01:17:44.518Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9f8eb520-bc67-46aa-a8d4-9786946b0c3b','134','Liechtenstein','2020-11-12T06:54:46.496Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('683c73c1-d0a9-4dd2-853d-6c6b7e9877a2','197','Estonia','2020-08-15T04:30:00.840Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2328c815-15d3-4ab2-bfae-404d2e5dd99c','138','Czech Republic','2020-10-16T09:58:55.382Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('67cd7ece-30bb-4520-99e7-14cfd168ef17','132','Sierra Leone','2020-08-06T21:29:31.000Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9dca402d-6f94-4baa-a55d-e8954c3b36ca','104','Bahrain','2020-10-12T00:55:23.916Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('08736d22-6259-4d98-9bad-a6c140f70de4','120','Ecuador','2020-12-18T23:32:09.854Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9fda610e-c190-4d7c-bc23-0282b722f8ef','184','Cape Verde','2020-10-10T04:29:13.072Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a3e4c26a-15af-4645-9859-47c58faba025','119','Myanmar','2021-03-22T19:00:39.741Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d0b01364-9d08-4b51-b2e1-01d99b6cf0d7','117','Djibouti','2021-01-19T16:41:56.858Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('074094e0-67c7-4406-97fe-4f24306bd3c0','54','Virgin Islands, British','2020-11-27T09:01:51.637Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('537a8334-2e63-40bd-99fe-a35d08ce2c34','189','Guam','2020-12-21T14:57:32.019Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b16d18af-3f3a-4ad4-b923-b1d3eec1e927','168','Greenland','2020-07-23T03:54:32.436Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('863d2fc7-84c2-497f-905b-026ca9dc01c8','187','Iceland','2020-09-18T00:50:20.261Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a8f81450-786e-4e48-ac77-998874e37eb3','15','Samoa','2020-12-03T10:03:01.836Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('947da156-82ac-47df-aaa0-1e4dc3afd3b4','144','Bahamas','2020-05-07T00:34:49.734Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('60898692-7919-4211-b9da-a39588447b5c','110','Senegal','2021-03-18T09:13:21.699Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1ebca033-6818-4197-8948-f497f96ac6a7','37','Cape Verde','2020-11-02T08:34:29.024Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('31eb8d40-37fd-4f1c-a7f3-e86145ca6ae2','69','Belize','2021-02-19T16:30:01.314Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b4c2398a-7a55-4112-ae1c-36fb51fdfa80','47','Dominica','2020-12-05T08:24:06.993Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3fa21b10-4278-4dc6-8475-ddaf0e26ae4c','55','Montserrat','2020-10-05T10:10:17.018Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d1392fab-e36d-426e-8feb-733561827a54','29','Central African Republic','2020-07-18T16:36:32.752Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d6967280-3c4f-48a2-ad62-c77f7414e798','187','Trinidad and Tobago','2020-10-11T17:46:03.458Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2b15d57d-f5c0-4380-86c3-2acc984b4682','126','Finland','2020-06-10T08:14:00.761Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9ad7bc69-ff89-4f64-9235-6abd7e49133e','75','Hungary','2020-10-18T19:25:39.392Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('60904a5c-efdb-44bb-b2ac-8536b2dff933','146','New Caledonia','2020-11-28T17:05:21.539Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7c74b97a-673b-42eb-a1e5-88907e1ff857','130','Ireland','2020-08-24T19:12:19.615Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5fb23017-437f-4a8a-baaa-edccba062067','65','Mongolia','2021-03-04T13:28:22.353Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6727f850-13eb-4635-9373-85aa953fac61','31','Zimbabwe','2020-11-18T13:23:31.652Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('71120b11-bb64-45e4-8d7e-33f449735815','131','Bolivia','2020-09-25T08:19:30.746Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a4f0095f-98c1-444a-b9b4-517fa55460d9','155','Virgin Islands, U.S.','2020-07-31T00:21:27.877Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3d94a159-3ffa-4cec-880d-64f8c155cd57','79','Ghana','2020-06-06T02:24:58.923Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8baeed11-8249-4f2a-9b23-5b4b93ee9d67','98','Comoros','2020-11-19T00:47:16.305Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4c1a679f-b7b1-47da-8131-a344c8e760f0','47','Myanmar','2020-05-27T16:31:27.031Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('074e1970-8241-4bbf-902e-51af0956fcb0','22','Bahamas','2020-10-03T00:53:46.590Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d1e31871-5eef-4590-853d-afded339d22a','21','Isle of Man','2021-03-14T11:31:24.306Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a93354ba-a49b-4d64-8fd1-c3af0c901e45','78','Solomon Islands','2020-08-16T14:46:37.394Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('da20f91f-d2f6-4dcb-a295-102e67f0ac51','137','Saint Kitts and Nevis','2021-02-15T13:37:54.661Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('dda19fb1-d3e7-4e95-8da1-475ce754d58f','106','Bhutan','2020-11-01T11:34:31.095Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b554b5b7-b11e-46b4-9d89-42654cbe72cf','186','Israel','2021-01-26T19:32:09.258Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c0489da5-dd63-47d7-8015-e6b9c8d0aac6','22','Costa Rica','2020-08-08T03:11:34.528Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('979fdeb4-fc51-4693-af56-0a66a402eeae','26','Jamaica','2020-08-27T22:01:16.961Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b388441e-4164-4ded-9367-aa21b0fceb84','23','Niger','2020-10-29T12:15:25.049Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('409bef69-3ed8-453d-9940-b3b8b5fcd573','115','Portugal','2021-02-22T06:24:48.180Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cad4b74a-c697-4606-99fa-8b352d9dbebd','77','Austria','2021-04-12T02:44:23.294Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('03dcca05-b3bb-44f1-91cd-6d7e0c3bea48','140','Yemen','2021-02-06T21:14:27.791Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('43d763cb-b2f4-4cae-a04b-08324ee8dbda','63','Bahamas','2021-03-25T16:51:28.067Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('151d1652-a3de-4521-a6c7-aa0580829b31','139','Mauritania','2020-09-14T10:17:01.403Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b9ee2db8-c33b-4471-a490-2e20c2c7df29','42','Guam','2020-10-20T09:47:48.312Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('741d14c0-4655-4d34-a3a8-1662636709a8','37','Central African Republic','2020-06-28T06:01:38.849Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('efa612f7-b8a8-4d77-a096-9a755278b269','17','Barbados','2020-08-28T11:22:40.931Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8250b8ae-30ab-4912-a01a-8a3797297550','197','Bahamas','2020-11-19T18:16:42.160Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e8cb47e0-4528-4b13-a4dd-c75c2a204632','183','Greece','2021-02-15T00:22:29.709Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6b5998e0-53a6-48ff-b703-7a5566c208ac','112','Denmark','2020-09-03T06:33:57.464Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4ea7df40-55d8-463a-825e-2a3d95a6d53e','84','Dominica','2020-10-05T17:21:11.096Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4e4a0f22-a05d-42f3-9899-4872f3a03b49','31','Nepal','2020-08-26T12:15:17.623Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d1eb0133-f048-4af1-b212-602815e4d1b6','184','Botswana','2020-10-19T06:47:53.982Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c1ee79d9-6735-4b9d-9ffa-7e753b244a68','186','Democratic People s Republic of Korea','2020-08-15T03:36:13.047Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3882ba65-2f0e-4ab5-8764-8985b851394f','73','Israel','2020-08-10T20:39:24.153Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b4849967-a580-4959-af38-8358e63b43a6','62','Ghana','2020-10-26T09:01:35.717Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('81f283f5-8af1-40f9-947e-336979e4f026','24','Guernsey','2021-04-11T11:04:37.409Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1dfe29df-d6a0-456f-a16e-9351752954c1','167','Greece','2020-12-13T12:05:36.839Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1683d7e6-88b1-4f35-b4c3-54642d2733bd','89','Sri Lanka','2021-01-24T06:40:18.474Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('dcf0f62f-6a18-4b6c-8b29-e61f6c4b1352','190','Greenland','2020-12-04T18:14:05.810Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('391cb5b5-5c07-4fd5-a04f-9eaa8cdf5d31','121','Mexico','2021-04-05T10:19:57.947Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9b2e10a8-a77b-4a06-8a74-c8d85a359f85','77','Dominican Republic','2020-11-28T13:12:39.621Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2f1cf819-04bf-4b61-981f-ab70b0207853','62','Puerto Rico','2020-09-07T17:33:35.819Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2e43f820-ccac-4b53-9ee3-3b86b5069ee1','144','Macedonia','2020-08-26T05:08:52.086Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c49f50ab-931f-4c2d-8bf8-374b3a96b238','110','Holy See (Vatican City State)','2021-03-07T11:41:39.411Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('caa56e52-af01-4281-b28f-dd3b4002676d','31','Portugal','2020-08-12T09:33:58.758Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('71fcb90d-8e06-4e3d-baef-96075abf0a39','120','Saint Lucia','2020-09-24T07:58:00.656Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('14657a0a-c9a5-4f4b-b337-4ac2d3728dae','113','Tanzania','2020-07-06T07:32:39.961Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('95a076d3-93ef-4aa3-afc9-13007aec79e5','190','Martinique','2020-11-28T05:57:38.351Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2139ab5a-f91d-4a13-bb42-dede9df61065','122','Cocos (Keeling) Islands','2021-03-13T15:37:53.915Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ac32c89c-2470-4e70-811c-9bb71e5ac24a','141','British Indian Ocean Territory (Chagos Archipelago)','2020-10-04T05:10:22.427Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f87f7bd6-f49e-4e26-a4b6-aac125302c63','85','Israel','2020-06-29T00:54:45.203Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('998a6e6b-a8e0-4149-94a2-7259c4c83048','47','Ireland','2021-04-09T01:53:37.467Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('615784e3-fe47-4ecf-897c-4502d78a56fb','133','Latvia','2020-07-17T19:28:56.397Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('35976d76-e133-4734-b924-5a06813a0c57','158','Dominica','2021-04-17T11:44:40.343Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('35646d9c-cd07-45bf-b214-b1f81aabd1ec','112','Falkland Islands (Malvinas)','2020-06-20T23:02:12.596Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('87fac3da-d946-4ab9-81d8-4c8eeefee414','199','Uganda','2020-05-26T16:17:50.308Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d35b2f1c-d4ed-461d-b2a4-0671a580292d','26','Cyprus','2020-12-23T01:52:58.466Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('dea4040c-a715-4519-8bea-97fd65f770d6','45','Eritrea','2021-04-04T18:43:07.395Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('23acbae6-1018-486f-8b4c-839d7b35d2a1','168','Czech Republic','2020-08-07T06:10:05.820Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a5dfa70b-9690-4e46-b12a-db1ece81e7ed','30','Equatorial Guinea','2021-04-21T04:20:20.801Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ac50c3fb-5251-42dd-957f-7fd4adcbf6b5','105','New Zealand','2020-12-29T22:10:18.662Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5b737848-2647-4c4e-9503-6b1e5e2a47ed','25','Serbia','2021-04-08T09:05:53.289Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0eeea28c-efad-4f9d-a6ac-0e1b28830b76','172','Paraguay','2020-09-05T02:35:13.550Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('acba8b35-9223-4102-afb6-03eb3ed53c21','40','Belgium','2020-07-06T20:36:11.955Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b2d52a7e-e1d3-479b-9243-f00f22b0753c','117','Seychelles','2020-07-30T20:17:48.667Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4f67b975-8dc1-45a8-b471-0048ed505244','193','Heard Island and McDonald Islands','2020-09-30T00:44:45.607Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c04f647d-c82d-43e0-ad4e-22da31c5349c','140','Martinique','2021-02-01T15:56:32.012Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fb9bcad1-19da-4c26-9869-3410f481060b','116','Qatar','2020-05-29T06:31:45.167Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('69be29fd-0080-4a9c-96d2-a04ecdd56fc6','162','Niger','2021-04-07T07:59:16.836Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('14664e8f-5f36-4864-acf4-4d1b19d5b515','46','Montenegro','2021-04-27T15:22:57.166Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b9036e17-ae47-4a9f-b3eb-a522028ca9dc','65','Democratic People s Republic of Korea','2020-06-18T08:00:05.250Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d11288ca-abd3-42b5-93d6-78d90986fd63','26','Uganda','2020-07-20T03:15:59.926Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('310fe419-c6f4-45ef-a851-59fbb2a4dd93','100','Turks and Caicos Islands','2020-10-13T08:42:00.329Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('32f78fcb-421e-4e03-baa7-ca4aa1b44469','85','Uganda','2021-03-13T03:46:14.495Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f2a1358e-ec2b-4df9-989f-34f0efa92478','81','Niger','2020-06-16T15:23:32.769Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9ee32514-1338-48db-a42d-d6b8dadf8905','145','Benin','2020-10-16T22:10:38.477Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('190b2085-a82e-475f-9a45-ff79686a6068','26','Uzbekistan','2021-03-14T20:48:33.521Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('af4cf8f3-657e-4c65-97d5-2fcacd33b4d4','28','Bangladesh','2020-12-13T10:20:38.036Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('41511471-3cd5-472a-8160-85ee6c090df6','122','Isle of Man','2021-05-03T00:27:59.148Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d09d7fad-6a69-4143-a31e-812f07c603ec','52','Svalbard & Jan Mayen Islands','2021-03-22T07:11:38.456Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('389bdaf8-793c-4acc-a64c-204cb6b2bdf0','36','Cape Verde','2020-09-30T03:22:38.960Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6d779ed4-996b-42f0-b24e-815905af729b','133','Cook Islands','2021-03-26T16:17:30.238Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ab4d2301-c2db-4d75-b36a-badfad4df92e','156','Greece','2020-07-10T18:13:56.102Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('31f77ca5-5d97-4f8b-80e5-07e01aec30fa','26','Solomon Islands','2021-03-13T18:06:27.173Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5f2d1b72-4095-44c7-9519-f4d002126513','25','Reunion','2021-04-03T16:15:52.643Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d5765df9-fbe5-4194-9a50-d668625b41f5','92','Norway','2021-04-10T07:35:16.154Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e574c501-045d-4536-ba91-9135b27f3686','54','Netherlands','2021-02-22T00:53:15.099Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f92843ad-8b7e-4a09-9e93-2d2ac844d2a9','93','Seychelles','2020-08-04T09:21:04.264Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f496a111-03cc-4edb-8113-32292167f8a1','18','Falkland Islands (Malvinas)','2021-03-10T14:19:32.065Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b4d2029b-13de-4fbb-9654-15be3f3c28d0','32','Marshall Islands','2020-08-26T08:51:35.625Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('16ced089-ee46-4042-a17e-6d4fd4eb7ff6','125','Israel','2021-01-05T13:37:44.452Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('da750b2a-0bb7-4c48-9349-488830b7e3a0','66','Antigua and Barbuda','2021-03-04T16:50:24.284Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2154f1f9-1b5b-42d3-893d-4ad9f1b335af','124','United Arab Emirates','2020-11-08T23:17:37.687Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('87e3324b-f3fb-45be-8a50-fe877c6be312','132','Ecuador','2020-05-24T06:16:17.953Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8bc6b35f-4597-4fa9-bd9a-7bf6bb1f23b0','56','Japan','2020-06-14T20:16:49.389Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7f725ab7-daa6-4f64-8e47-5a6a4a31eb5c','28','Maldives','2021-04-27T15:49:29.896Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0efcf2c0-caa6-44d3-a076-06b9402f8266','101','Andorra','2021-02-28T20:09:51.762Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5a4c21fc-c066-4b43-ae84-deb2208b85b4','122','Maldives','2020-06-23T12:49:56.828Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('18f382e4-74f4-47f2-866f-55c9d551ee05','120','Saint Kitts and Nevis','2020-10-07T22:41:22.670Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0d1b4077-4cce-4ff9-8a9b-b0902c794cbf','95','Niger','2020-08-11T13:54:59.113Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('47c9642e-d24d-4032-83e7-560ff70cb993','25','Gibraltar','2021-01-27T03:21:24.813Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1a9261fb-c330-41ca-a195-289cbc6560ea','60','Botswana','2020-12-13T17:55:15.480Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('565e447c-fd0c-4beb-a69e-12db7fa8d6f2','146','Puerto Rico','2021-03-16T09:55:04.451Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f2d934c3-6723-41b7-8c5b-f2b6a89b7800','24','Australia','2020-05-30T15:24:00.988Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d38cc1fb-b88a-44ed-82a6-3fb142f05007','19','Haiti','2020-10-23T10:49:31.324Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8a03d7b0-112d-4d83-96eb-41f6054718fc','19','Brazil','2020-08-27T05:48:40.008Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ac977940-7aed-463a-8002-0a020cc51359','132','Iran','2020-09-26T15:05:01.334Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('81e256c3-8ff5-4823-b1d5-8d8dc26f56d6','155','Norway','2021-03-14T14:42:32.691Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('98f8537f-820e-44f1-b0e8-e19f47192eb0','111','Solomon Islands','2021-02-25T17:37:05.967Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('41835894-c563-4c2c-86fd-c63d79d6f12e','129','Trinidad and Tobago','2020-09-14T00:50:38.064Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9268788b-981d-4753-8681-5b10c67ea0b3','155','Panama','2020-09-07T23:53:45.014Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f91d815b-ca04-40cb-8086-c21fcb9e4131','168','Palestinian Territory','2021-04-25T21:30:05.285Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8c77f9b2-1612-43ec-baa3-83f863edc61b','163','Lebanon','2020-09-17T18:14:34.524Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4b147ff8-557c-4fd2-a94c-5ccade07c0b6','28','Micronesia','2020-12-11T20:18:10.453Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('15fec61c-62ba-404a-ad5d-8ddd88383d80','166','Guernsey','2020-09-28T21:14:40.370Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fb18bddd-c308-4a07-b90b-e7085e6d424c','152','Chad','2020-11-22T08:34:25.060Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d31ed5d7-44dd-4a12-9f4b-98e6b825e211','21','Cyprus','2020-05-14T13:53:23.720Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0b96f2a7-f510-4b57-8a74-50034526f69e','150','Pakistan','2021-04-05T22:49:22.948Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c95b133e-7e3b-45b9-807e-9e60e024dc48','192','Pitcairn Islands','2020-10-21T20:55:25.369Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('bf53ee1f-f7b8-45bd-86db-bebc319a26b6','149','Virgin Islands, U.S.','2020-09-18T16:12:26.223Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('88175bad-fd3e-4f66-a39d-5f0fbe8c5771','148','India','2020-05-30T11:52:03.379Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5a909582-fc1a-4c12-af62-a5a583d7b6e7','63','Hong Kong','2021-03-31T16:34:47.642Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('04091649-3db0-47fc-bdf8-f2c028387fbf','171','Marshall Islands','2020-08-09T05:03:59.640Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('60381194-7bbc-40c6-a019-4c29992d609d','141','Solomon Islands','2020-09-07T10:49:48.711Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ad859f05-e147-4a38-96a8-5fc0239db3d4','173','United States of America','2020-11-07T14:44:42.364Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('46cd5ce4-1e91-4399-a4d4-bdca091fe083','17','Kenya','2021-01-10T10:15:23.836Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7e1bba77-8ade-4145-bf15-4fac7fb4455e','47','Ethiopia','2021-05-05T18:49:00.028Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7e134f6e-6371-47fa-853b-b5c510f029c7','80','Afghanistan','2021-05-05T13:19:53.431Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('dd7023f3-64f5-4f52-8b83-6e01837f409d','87','French Polynesia','2020-06-30T02:52:04.524Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d3058c25-4090-4ece-91c4-06849b2498f5','156','Uganda','2021-01-01T11:19:36.614Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fe6a7360-d40a-445e-928d-c983defaf0b1','167','Macao','2020-10-04T10:23:29.324Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5b351819-b0c1-4db6-b361-3631afe35f20','27','South Africa','2020-05-22T20:48:38.426Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7652a583-b75b-4be5-a46d-74851556f16f','117','Sudan','2020-05-20T19:42:54.942Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('41185b67-3507-47ff-b933-9f9d488c438f','156','Colombia','2020-12-21T00:16:54.311Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f8fedeff-fa91-4d7d-a755-4a06f97041dc','115','Norfolk Island','2020-07-31T23:01:46.607Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('80aa5d73-c3b2-46ce-bd02-e36a598e5415','32','French Guiana','2020-05-13T23:34:54.212Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a3baad7e-d568-4b8c-97e3-b201c7c587cd','151','Saint Vincent and the Grenadines','2021-02-19T08:47:20.458Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('304802f3-bb1e-466c-a6df-f4a5156badd2','193','Swaziland','2020-07-22T14:13:06.678Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cb4fa0d8-1136-4d58-9eb5-2b0cf3bad560','149','Djibouti','2021-02-08T04:29:01.631Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7f413436-fdc8-42fa-a39e-f67565191455','18','Palau','2021-04-26T11:37:36.145Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('746fe69a-91c8-41c3-b157-95777b6f3a1b','128','Equatorial Guinea','2021-03-06T09:41:41.343Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('66cbeb27-d8d4-49e1-a50e-0f7283d843e7','102','Morocco','2021-04-07T12:20:03.386Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4d833b4c-3c26-4ac1-9b80-9f4395b36c80','161','Suriname','2020-05-07T10:36:20.115Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1a00bb75-2cd6-4075-9e26-6c05934b8a62','45','United Kingdom','2020-08-02T16:18:34.582Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8acc31c5-42ae-420a-86fb-42b8c062e635','195','Norway','2020-08-20T22:56:59.211Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4cc0574c-e6ac-46b5-a294-fe32d4475d18','160','Canada','2020-09-17T16:09:44.966Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d7d1d7ad-814c-4526-8a2d-561c14b73b07','171','Paraguay','2020-07-18T19:16:04.423Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('170f2021-bdda-4611-a5b0-3f9d5005f5cb','71','Ethiopia','2020-10-07T10:35:17.732Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e000ccc8-fa18-4ca7-ab70-f1335d16f4c2','69','Mauritania','2020-10-10T18:12:49.780Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('dbcc32b6-195e-4e05-8d18-288ab262c30c','188','Luxembourg','2020-05-08T01:51:36.486Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3596b26b-dfa3-48ba-aec9-de6b3631e736','163','Ecuador','2020-12-16T17:10:54.106Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('315202b9-df4d-4771-9463-4e34f9283b65','57','Guernsey','2020-11-15T16:57:49.900Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('03898155-ed1d-408e-848c-5d0655918a2d','69','Macao','2020-07-18T09:49:21.228Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('be7d0c1f-287b-42b6-ab4d-a7d854453ad5','38','Guam','2020-08-07T07:34:17.413Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ccc1c8fc-a195-43b3-9fb8-74fc33f12952','56','Mongolia','2021-03-31T02:54:07.295Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0e267156-05f1-44fe-a48a-45ca27fd0b0f','46','Spain','2020-10-05T10:04:20.766Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e8f3ba42-0e6d-4f2b-87be-5cc8e6149c4c','76','Turkmenistan','2021-03-12T10:30:34.298Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b8346698-e281-4777-bd28-31f9fd3a6c63','89','Vietnam','2021-02-21T01:11:56.227Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2d246534-5c83-4605-89be-5a0efe2d78ef','159','United Arab Emirates','2021-04-05T05:21:30.935Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e8c173c3-c60c-419a-a75c-508cd1ca1ab1','168','Honduras','2020-05-12T20:56:01.891Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('29826ab3-4cb0-4b2f-8a5d-9b8ceb49e3c4','42','Saint Pierre and Miquelon','2020-10-30T19:20:06.175Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4fd82d1e-911d-42d3-8c30-7656867fc894','115','Netherlands','2021-05-04T20:06:21.444Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('aa6abb90-45b2-4ded-b979-2175c0893484','98','Morocco','2020-08-29T20:42:43.457Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('259b4681-59ae-4d44-b2ca-299d4b14b769','157','Panama','2021-04-19T19:35:34.249Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('aaa8d13d-9483-4436-8e6c-504f397b4def','33','Belize','2020-09-02T07:58:44.081Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7d298577-93bf-40b2-9a74-0c34886e5257','138','Palau','2020-12-02T21:23:24.093Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('37642ba1-fe84-403d-a11b-1766dbdb9249','90','Russian Federation','2021-03-30T20:07:11.079Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('00ad1da6-511a-4680-af1f-0cca57f7b9b1','196','Guernsey','2020-05-20T17:43:12.735Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('00ebd38f-a2a3-4702-b964-3542fc36496c','116','Palau','2021-03-11T17:48:53.819Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c124ca87-8d28-4b81-8a7e-d831b109517d','24','Nigeria','2020-07-04T09:24:24.112Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('98b32042-0d1a-400e-afd2-295472c6ba94','100','Bolivia','2021-01-17T01:23:16.007Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('bde6d4e7-67e1-4398-a706-999422516751','76','Pitcairn Islands','2020-10-20T08:35:05.231Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4a855c4a-4e6d-4a2e-96bb-647062b1892c','135','Cyprus','2020-11-02T01:10:54.466Z') 
   GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f308eedc-5b67-411e-bcc4-21417d34927d','170','Niue','2020-09-26T08:35:19.207Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('36afb0ff-3549-434b-b3e4-c6b9e8a689d0','158','Peru','2021-05-02T11:45:25.103Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3d4a7b77-978d-4588-9ef2-3b987d5b4b97','121','Tanzania','2021-05-03T08:55:06.267Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9b9900a7-7601-499e-8f90-95f49e7f1190','36','Belgium','2020-11-21T13:06:36.493Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9205c50a-fe59-4a92-9356-5ca5eca6aea5','151','Sweden','2020-06-20T17:34:27.208Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3efa3fa4-2b4c-4a1a-b911-0cce95acd1f8','31','Republic of Korea','2020-12-30T20:23:01.099Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1fc6e248-20a0-4637-9460-08150bb12bb1','182','Somalia','2020-09-04T01:03:21.245Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('84484887-7286-4eb5-af0b-66c1cf80c076','25','Kiribati','2020-07-24T09:45:25.098Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8110c68c-fb40-44b3-9adc-180f75ea9bf0','180','Saint Martin','2020-08-08T05:04:22.352Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('feb9a6d9-471b-4df2-b1f9-c631f168d6e4','65','Belgium','2021-05-04T14:10:09.595Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('18b3dd73-de2a-4974-8af7-89bda6e67db3','189','Jordan','2021-04-10T00:55:39.434Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('34340fd3-552f-446f-a743-efc9862e37c2','42','Saint Pierre and Miquelon','2020-05-10T02:16:28.939Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2ee6a194-3569-45f0-8e48-74f63ba35655','91','Anguilla','2020-11-12T21:46:28.906Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fda19823-d9e7-42f9-a765-40e89a8d11fb','60','Niue','2020-08-07T22:51:38.356Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d1074a60-44cc-4e72-a4e6-4a5f14aa3868','180','Aruba','2021-04-30T23:19:24.277Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('618caf9f-d34a-4456-8192-51ece347ddd9','144','Ecuador','2021-04-21T23:45:49.779Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('be8336f1-c244-42bf-9184-ecfff7823e42','165','Costa Rica','2021-03-03T07:27:19.500Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fe5872d2-1569-4c04-a7bf-ee75737e6668','105','South Africa','2021-01-22T11:50:10.171Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8e4c7f80-6a5b-47db-88ee-640b16ceef10','43','Suriname','2020-11-04T12:35:04.913Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c543e99d-a776-422d-b0cf-1036273dda36','157','Lithuania','2020-06-01T16:33:54.734Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('704cee0e-bb59-49f7-b1ba-7ffb35d70979','93','South Georgia and the South Sandwich Islands','2021-04-16T05:06:20.331Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('11bc0b60-96dc-4016-a696-3a6036ce7206','126','Sao Tome and Principe','2020-10-29T07:08:20.536Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5c9733e9-ee49-4208-8af9-63a016f6496a','184','Liberia','2020-11-08T00:36:57.216Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b809a36d-fafc-46c7-9b49-2ff069e79cf4','76','Peru','2021-02-26T19:31:19.523Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('790eb4d3-a1f5-43dc-9faf-0262e962b436','16','Central African Republic','2020-06-29T01:50:26.496Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1e16b63f-b8ff-4617-9744-6cf56e67d249','50','Sierra Leone','2020-05-15T14:08:01.383Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ad0d04a7-e767-4930-868d-91a98f157b02','113','Lithuania','2021-01-09T13:43:06.319Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a59e912a-6933-4215-b043-18ba39c72dc0','176','Marshall Islands','2020-09-08T09:34:10.047Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2846ee2e-61d4-4f85-9a46-f82b1faa37d8','69','Dominica','2021-04-26T09:32:34.705Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('bd27d533-b27d-4291-9f2b-b03aedc04011','99','Chad','2020-07-10T20:45:37.051Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c1822871-f493-404d-bf48-07a96fcde51e','76','Cyprus','2021-02-26T13:05:28.773Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7960257a-c411-42cd-a332-21daf371b4ce','177','Syrian Arab Republic','2020-12-20T18:03:26.532Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('29d5f491-d2d3-41bc-b55a-d13d76773422','98','Tanzania','2021-01-28T23:47:07.353Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('658d027d-b991-4c71-9767-4e24cbcbc1a8','189','Norway','2020-11-04T11:07:34.118Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e5259eaf-7d83-4ece-89c1-6bde72b3b773','54','Saint Vincent and the Grenadines','2020-11-19T21:43:26.595Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d6e0f59b-fa00-4a09-819e-38e2073b3256','37','Finland','2020-05-10T09:30:16.138Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a38d5633-feaa-42a3-ae1f-3e7c0a15977f','164','Timor-Leste','2021-04-30T20:57:06.150Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('aadb2d7c-644d-4739-9b85-4924ec6b95ff','53','Svalbard & Jan Mayen Islands','2021-02-17T08:20:21.333Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b5b3c86e-40d1-4e7f-aadb-83ad77d9a300','158','Maldives','2020-12-20T02:14:41.344Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('832cef5b-a068-47b9-b3a4-10709d12b44c','111','Saudi Arabia','2020-11-11T04:24:56.137Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('30263418-18c4-447a-9f9b-716dd0e0d0ac','63','Monaco','2020-06-11T23:09:29.909Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a3d4e8ae-9994-438c-bfad-6b9edb9070da','144','Mayotte','2020-11-25T04:46:34.976Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3172601a-148b-4a04-9d94-0f38628187ae','60','Chad','2020-07-21T09:10:19.058Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fbd35b97-68f7-426e-b4c8-8acfaf2a7b41','67','Iran','2021-04-13T02:51:55.088Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ed1234f0-b551-4372-8ee3-2692a89b73f6','77','San Marino','2020-06-06T06:28:04.462Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5db61cf1-6284-45d3-aa0b-aa10f81dac42','182','Cameroon','2020-07-09T05:50:24.477Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cbcd4a49-295d-434e-99fc-a6980894e47e','90','Latvia','2020-05-21T03:30:02.128Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('676e1148-6a28-4ec2-95a1-4626645d4da6','95','Qatar','2021-03-06T20:22:16.163Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6f7b5e3e-8c33-4493-8b67-55cc2b3f61e8','108','Latvia','2020-11-13T11:06:32.540Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e2801d84-c9b8-43a4-8e56-9a152375c3f0','36','New Caledonia','2020-12-01T08:42:54.828Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('05f11c38-b2ed-4277-ae25-581cc750c3a9','103','United States of America','2020-08-10T17:29:33.396Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9c38f256-8ef3-4249-923d-ac43d054d350','66','Dominica','2020-10-02T08:09:47.748Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f781d322-c273-4684-ab98-a59dae312e29','122','Democratic People s Republic of Korea','2021-01-15T09:24:31.031Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d46019bc-959b-4dc6-920b-73b63b1bc9a5','185','Kenya','2020-08-16T22:57:40.267Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('28ee357e-f7c2-4257-922a-21bdc6f8967e','147','Chile','2021-01-12T10:26:00.574Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c9083e59-8c53-4da2-b6f6-f5a7f5627eb0','179','El Salvador','2020-09-01T00:15:38.851Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('104e75a4-e44c-4db2-8f67-9eb3ea37a6b3','131','Isle of Man','2020-12-04T02:38:57.387Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('36c11560-f3f7-4d0a-9321-302931f895db','123','Niger','2020-09-19T13:55:17.130Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('23cc0910-3a82-409b-8d01-d8fb4e0eb4e5','168','Trinidad and Tobago','2020-07-19T17:01:14.106Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9bc1376e-9b0c-4b02-984e-3c13907c08f6','63','Bolivia','2020-09-22T05:19:15.803Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('86e4c896-1f72-4ddb-9a0e-2e558cdc709c','83','Morocco','2021-04-13T08:11:01.830Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2440ad6e-f90c-4ab5-bf8c-5b1e8f9e21ea','161','Slovenia','2020-12-24T23:26:34.850Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('193b2b8b-853b-4b05-9289-dbdb63310331','102','Democratic People s Republic of Korea','2021-02-04T03:51:42.357Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('15fd74ab-eae5-43f7-9731-71d9f8103dca','17','Micronesia','2021-02-12T19:47:12.262Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4e3f4977-a262-4f6e-aa0a-08497b5c1a7a','150','Saint Barthelemy','2021-01-18T23:18:38.865Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4f83cc70-8851-43c7-a015-1a2c23c2f0df','92','Bulgaria','2020-11-25T05:37:59.163Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a4fbba5a-f649-4117-86e7-425a8de16919','185','Thailand','2020-09-19T04:19:38.083Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ae0af5be-9b3c-4a7c-b642-374c71dba194','100','Spain','2020-12-15T01:17:14.690Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c78b2053-efc8-4a6f-9080-19fb87e017af','124','Greece','2020-10-03T04:37:39.017Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('57eb7696-f977-4875-8316-1a07f8f06b89','139','Haiti','2021-05-02T23:36:01.226Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cfda6acf-490a-46d4-a949-1ccdc41aa617','102','Bahamas','2020-08-29T18:35:45.023Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('819d510c-5d8f-4539-9746-a56daa43d9a1','15','Mauritania','2020-06-19T16:30:46.420Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('33c6d3e9-2e43-44aa-aea5-13078b007c5e','185','Seychelles','2021-01-13T10:26:55.026Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b61eadce-566d-4b35-b708-d3a42ad62cb0','187','Iraq','2020-07-06T03:07:38.466Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('38cd7f72-dce9-4d35-85ca-5f9623a29b21','132','Latvia','2021-04-13T12:33:06.290Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('05c1469f-dd0c-4438-9595-a90b8255a857','97','American Samoa','2020-09-27T19:09:08.321Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2f2b8544-e4cf-4f56-9e9a-e4bda0754f1c','192','Estonia','2020-07-18T10:33:41.464Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a4d82eba-1c7d-41fa-9f59-9f383ce06c27','151','Gambia','2020-07-24T00:01:41.700Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('aa1e791c-d58f-41d7-a99f-c13991cda5c2','93','British Indian Ocean Territory (Chagos Archipelago)','2020-12-04T22:40:22.665Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('02f58677-beaf-46e9-bab7-04470e9d20e1','190','Solomon Islands','2020-11-05T00:40:08.492Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('95a40f52-15c9-4f5c-b7ac-7e56dd43c419','94','Mexico','2021-01-25T03:35:28.673Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f0113559-d426-4042-b3c6-2fd3f3d9a476','94','Sao Tome and Principe','2021-02-03T16:55:43.229Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('91db29d3-e4e4-4be6-ab81-178de2218ec5','127','Turkey','2020-08-21T03:22:56.903Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9aa559c7-adda-4131-a0b6-a8d7fe7be9d5','158','Germany','2020-08-03T09:03:29.567Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('60e03af9-504f-4989-ad44-37eb0895abb8','89','Faroe Islands','2021-03-03T20:20:26.020Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3129bc8a-c692-45f0-b260-ecd8376f815c','156','Panama','2020-05-20T09:27:29.657Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e0449b72-bcd2-400b-8ead-db3542f50b6f','107','Sudan','2020-07-18T03:13:28.172Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('54db2360-6be6-4859-859e-b28f5e05f91c','126','Ireland','2020-09-08T01:17:55.294Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f02bdf43-e768-4a0f-bbc4-d212ce9e2784','122','Tanzania','2021-04-29T03:36:34.972Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('71bc7fe4-4d60-435b-9255-a9ec6bfdd764','115','Afghanistan','2020-08-01T19:53:01.010Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1b170eb3-c917-462e-9a87-7e77695c38ca','37','Gibraltar','2020-05-20T01:02:51.446Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('39144017-061a-4888-b623-f6a894bef03a','108','Philippines','2020-12-17T13:40:07.143Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a76d5183-fddf-4f1b-83fc-7294f3626ebe','99','Saint Helena','2020-11-16T02:40:16.900Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6b9c4d30-be67-4e13-b60d-bcded9750b5f','180','Nigeria','2020-12-11T19:10:13.123Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('0f1b0cfa-945b-46e5-a5fa-9a8d7f8db3b8','26','Sri Lanka','2020-10-19T05:28:20.975Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('620e1580-fbde-46cb-bd01-b2d3e56f8dac','130','Burundi','2020-10-01T14:18:07.280Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('215282df-aa12-4d15-9282-64719d8b9337','193','Libyan Arab Jamahiriya','2020-11-05T16:28:41.689Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f0582296-df67-4453-9f99-6152d12ba335','186','Panama','2020-09-16T01:11:52.194Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e6c2a7c2-3b13-4996-a4eb-f63d90866afb','25','Uganda','2020-08-21T11:36:37.090Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c5516899-ace0-4877-ada3-8e65c24f9de9','154','Sao Tome and Principe','2020-10-04T20:57:42.949Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('022e9e5e-0e7a-41c2-8625-c27d8e17e6eb','45','Zimbabwe','2020-06-01T02:00:00.799Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('591aeb40-a20d-43f1-a703-5fc9d0814cbb','166','Serbia','2021-03-22T11:27:22.413Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('05bc55d9-d31d-4f2b-8407-a4dfda154055','180','Nigeria','2020-10-25T20:27:34.022Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('278675f7-cf0b-489a-bd3d-5c6ae74dbf8d','197','Turkey','2020-06-07T13:11:27.134Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ab3a0834-d1a6-47d4-b9d7-5c415971a5c3','77','Uzbekistan','2021-02-24T14:50:28.739Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4c022bdf-6514-4e86-a850-9a67e6d1e3eb','34','Ireland','2020-09-22T21:00:43.882Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('56506338-63f9-48cf-b6bf-b42d558a03c6','198','Mexico','2021-03-20T07:10:48.433Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('14d3c059-661b-4652-98fb-37bd2156fcba','136','Belgium','2020-06-11T12:59:56.214Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ad9fe7a1-0474-4d23-bf49-ef9873f7b9c0','64','Guatemala','2020-06-21T17:27:37.047Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('db9f6a0b-1792-4dcf-82f0-29393258dbce','167','Luxembourg','2020-08-19T16:36:46.618Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('96948447-cdf3-4fa7-999b-78791478e3de','157','Estonia','2020-08-18T14:31:52.749Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5da68a4b-4972-4a57-9f1d-1e605844c5b7','168','Australia','2020-07-11T18:49:14.715Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1deacfc5-7e28-44e6-8152-a413a4adf901','50','Cayman Islands','2021-02-06T12:03:29.188Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fa2072d0-036b-4147-80dc-e3e909a2cdbb','51','Jersey','2020-06-06T14:14:32.680Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cdf0150a-d938-464f-aadb-6d60379cead1','22','Moldova','2020-10-12T14:49:50.603Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ddeded11-49e9-447d-bd1f-4d2195639882','156','British Indian Ocean Territory (Chagos Archipelago)','2020-07-30T23:44:14.525Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ff917985-5c93-40df-843e-c5c7d6ae7a94','135','Bolivia','2020-11-06T19:25:11.778Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('612dc061-4de3-45c7-a419-585742f5db74','91','Russian Federation','2020-10-28T20:33:26.412Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9336b48a-4232-488e-844d-aa7a673cfbb2','152','Tajikistan','2021-01-23T06:50:40.367Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3a63531d-523d-44fb-be4f-5134328efed0','166','Nepal','2021-02-21T05:31:29.653Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8284f878-cba6-4305-85af-9518f1dc41a4','161','Iceland','2020-06-03T14:54:53.923Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('611fe57f-ea0f-4c47-aad2-8585f3e903e7','181','Tanzania','2020-05-19T23:20:02.627Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('1ec630fa-9761-49d1-b85b-0be3011a61fa','185','Greenland','2020-10-12T01:43:00.662Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ae314b44-66a3-4ee4-9a22-26351fbdb644','49','Guam','2020-07-09T23:02:47.731Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c4869c28-eebe-4d63-8659-cfd20b5daab1','158','Syrian Arab Republic','2020-08-24T08:09:28.726Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5296eb1b-3d4e-4c98-aff7-08e51cdd19c9','43','Algeria','2020-11-20T15:51:28.718Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('dc6f1fd2-f2fa-4887-a080-71cc183ecde1','154','Pitcairn Islands','2021-04-25T07:48:21.045Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('a5ae9176-289f-4155-8833-16ed223f4fd6','27','Bolivia','2020-10-21T11:00:22.061Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3e713ea6-39c5-4359-a557-de82edffe2f0','190','Liechtenstein','2021-03-06T10:45:58.231Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('545d64ae-074e-4277-988b-868e09816c0a','164','Ethiopia','2020-11-06T01:38:21.216Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('24152388-bd7c-4e41-a467-2a1141177b20','138','Uruguay','2020-12-31T21:47:07.970Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d25fdbb3-5406-472d-99ff-3ae457b0e48f','183','El Salvador','2020-09-15T18:10:31.100Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2f327c0a-6e85-488d-b1a1-3443fcb8ddb3','85','Djibouti','2020-09-28T16:36:54.765Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b63c929a-5b81-45b5-ba02-f9a1572b1c38','86','Myanmar','2021-03-29T01:46:12.382Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cb6231ac-0f2d-4c67-9f0a-d997dfc0325c','79','Ireland','2020-08-16T20:15:51.856Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f9072fd8-4ea4-4351-acd8-43a02b02051d','83','Hungary','2021-03-25T16:43:46.941Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ad8cc5de-dabd-482a-9223-7a78d496ba93','96','United States of America','2020-12-02T02:12:42.147Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('05595939-5067-4169-9534-dc511c0ae3d6','73','Bolivia','2021-01-21T08:21:59.362Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('608d0eaa-98c0-4742-adfc-bc0656c522a9','99','Oman','2021-02-15T11:55:28.886Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8d4af3db-2d48-469e-a08d-669c501a00b6','98','Uzbekistan','2020-06-12T14:18:19.327Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('569b89a3-6bfc-45c8-9855-2c71d6a92d30','152','Dominica','2020-09-10T16:34:25.279Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fae85547-2569-4bf4-aa62-fc13efa5d333','23','South Georgia and the South Sandwich Islands','2021-02-19T23:22:29.862Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('6568841c-958d-4c5a-8695-026e4b4fc2f2','36','Slovakia (Slovak Republic)','2021-01-09T12:58:28.516Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('4f6e7740-136a-4b9f-860e-5be17250a1a0','150','Belarus','2020-07-27T03:26:36.515Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('75b2baaa-95dd-49ba-a4b9-b4b41369c430','115','Jordan','2020-12-07T20:37:22.215Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('27cd2500-c133-4cbe-9506-5a8151445d8d','200','Lao People s Democratic Republic','2020-11-12T22:25:41.305Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('99d0341d-d541-4556-b70a-5cc210e5f825','188','Oman','2020-07-22T13:35:52.305Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('25adfef1-6883-4907-b5c0-901bb88204fc','160','Ethiopia','2021-01-08T20:13:54.458Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('7c6f3418-dc0b-4378-979f-ec235737787a','93','Latvia','2020-10-27T09:57:47.256Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('585238fc-1abc-44c9-bcd8-99e1d5f862c6','102','Latvia','2021-01-08T21:38:06.314Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('249653d5-93f1-43ba-94f2-ea1174d57cdf','27','American Samoa','2021-04-25T14:52:59.308Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d8b1af81-446e-4edd-a885-b231a417580c','47','Australia','2020-09-03T13:33:04.376Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e9868718-936d-4b80-bdce-a376af2d0234','88','Kenya','2021-02-08T08:19:47.674Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ef12fbfc-8693-4a1d-8988-dcba7a894dbd','175','Algeria','2020-06-27T17:26:41.139Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('56f9e7c1-9e5b-4a13-8f19-248c27ff840e','143','Cote d Ivoire','2021-02-12T12:34:49.753Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2e79635c-55e8-4c7c-b9ae-5c87a2243834','132','Sierra Leone','2021-02-19T20:14:51.764Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('278ac1d4-922d-4d60-aa19-fcc696242092','177','China','2021-04-13T11:05:35.871Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('587e6531-6642-4962-884f-c74abfa31f38','170','Macedonia','2020-10-24T00:48:58.527Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('afafe25c-61e5-4e72-815a-1d5a4031341a','16','Estonia','2020-11-05T23:04:43.795Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f8991962-61f0-40ff-8184-7fb720d55de2','163','Ireland','2021-04-10T03:20:06.087Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('2977bb44-0e97-4d4a-84ec-6fa2ead14c66','147','Vanuatu','2021-04-01T14:57:56.568Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('e84c1530-6cfd-41a4-b566-679954d3ab4b','107','Saint Helena','2020-12-24T21:37:12.090Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('b747add8-7be0-4e95-99a6-c659bdee1553','54','Guyana','2021-01-31T17:00:24.003Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('ae806b74-677d-4644-bad2-16939b8448cc','38','French Guiana','2020-10-06T20:37:57.135Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('aee3aa1a-49cf-407c-8b57-cb23f98b9f7d','47','Afghanistan','2020-08-10T15:51:31.026Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('871231db-20a5-4da3-80da-c5266a91aa3b','186','Montenegro','2020-11-10T11:12:53.247Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3fa4b0d0-36f1-418e-b630-dade2f771903','133','Ethiopia','2020-11-19T11:30:34.292Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('cd32cad0-a5d6-461a-9a40-3c2b24da5f30','31','Italy','2021-04-10T06:24:32.729Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('8cfb79dc-08d2-4d23-96e0-f7fab9f1d53c','111','Austria','2021-02-11T18:23:13.265Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('411b3bae-1c5d-471e-9a5d-b8275cf328bd','112','Belgium','2020-07-24T12:59:58.655Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5e0cdede-d806-4640-8170-8f0f42d5fd52','64','Holy See (Vatican City State)','2021-03-15T11:51:09.257Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('f2b292db-c185-4981-a0a8-cd4d59311a6c','164','Tonga','2021-02-26T10:00:23.364Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3cf63ff2-760a-4465-afb0-2632db2b59cc','84','Paraguay','2020-09-01T13:34:10.762Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('c1a92692-49d5-4958-85ab-5eafc81034ac','161','Sri Lanka','2020-07-30T21:55:06.759Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d9d3e266-1c54-4c91-85b8-7f45e4005cb0','173','Greenland','2020-10-16T12:49:18.267Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('93111195-d89b-457e-bde6-95f429a09049','180','Israel','2020-09-26T02:05:48.286Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('d1f06dad-6816-4d57-88da-1a3bdc0aba86','111','Saint Martin','2020-07-23T01:12:05.318Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('5ec9fc4a-8b9a-4af2-876d-9fb9ff24994d','142','Sudan','2020-05-25T09:11:47.637Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('189bbede-fb80-48e7-b45f-273960f21314','165','Israel','2020-08-25T02:07:18.136Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('00c97718-79c6-4b97-a159-20b678b1d3ec','137','Iran','2020-10-25T16:47:19.906Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('05c8abae-c823-435a-939c-cbb52b55cac6','133','Spain','2021-05-01T11:20:32.748Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('3bd92e14-01b9-40df-a854-bb2542ae6789','140','Guam','2020-06-10T15:21:46.954Z') 
-  GO
-INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('9e0d739a-d5f9-486f-8ea4-1b791fc690c6','61','Netherlands Antilles','2020-05-17T15:06:47.899Z') 
+INSERT INTO sales_regions.region2.sales_period_2 (id, amount, location, stamp) VALUES ('fa849ac5-d8ab-4dd3-902a-d8b8924c5a47','178','Honduras','2020-08-01T13:22:02.238Z') 
   GO
