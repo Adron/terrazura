@@ -74,9 +74,6 @@ create table region1.system2sales
     notes text
 )
     go
-create unique index system2sales_salenote_uindex
-    on region1.system2sales (salenote)
-    go
 create schema reporting
     go
 create view reporting.sales_report as
