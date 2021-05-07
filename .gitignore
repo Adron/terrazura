@@ -3,6 +3,14 @@
 .DS_Store
 node_modules
 
+# Don't commit the data generated files.
+./insert1.sql
+./insert2.sql
+./insert3.sql
+./insert4.sql
+./insert_sys2sales.sql
+./insert_reg1sales.sql
+
 # Local .terraform directories
 **/.terraform/*
 
