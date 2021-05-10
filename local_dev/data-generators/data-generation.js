@@ -8,7 +8,7 @@ var theColumns = "(id, amount, location, stamp)"
 var theTableRegion1Sales = "sales_regions.region1.region1sales"
 var theColumnsRegion1Sales = "(identifier, sale, dtmark, shipped, city)"
 var theTableSystem2Sales = "sales_regions.region1.system2sales"
-var theColumnsSystem2Sales = '(amount, \"date\", salenote, notes)'
+var theColumnsSystem2Sales = '(amount, datestamp, salenote, notes)'
 
 function sales_period() {
     var nowStamp = new Date(faker.date.past())
@@ -32,11 +32,15 @@ function region_1_sales() {
 
 function system_2_sales() {
     var nowStamp = new Date(faker.date.past())
+    var charValue = faker.datatype.string().charAt(0)
+    if (charValue === "'") {
+        charValue = faker.datatype.string().charAt(0)
+    }
     return "('" +
         faker.datatype.number({min: 15, max:200}) + "','" +
         nowStamp.toISOString() + "','" +
-        faker.datatype.string().charAt(0) + "','" +
-        faker.lorem.paragraphs(3) + "')"
+        charValue + "','" +
+        faker.lorem.paragraphs(1).replace("'", " ") + "')"
 }
 
 var min = 50, max = 500

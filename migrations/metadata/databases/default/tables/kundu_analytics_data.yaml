@@ -1,0 +1,3 @@
+table:
+  name: analytics_data
+  schema: kundu

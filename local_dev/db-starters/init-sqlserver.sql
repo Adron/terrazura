@@ -46,7 +46,6 @@ create table region2.sales_period_4
     stamp datetime default getdate()
 )
     go
-
 create table region1.region1sales
 (
     identifier varchar(16) not null,
@@ -56,20 +55,17 @@ create table region1.region1sales
     city nvarchar(100)
 )
     go
-
 create unique index region1sales_identifier_uindex
     on region1.region1sales (identifier)
     go
-
 alter table region1.region1sales
     add constraint region1sales_pk
         primary key nonclustered (identifier)
     go
-
 create table region1.system2sales
 (
     amount money not null,
-    date date default CURRENT_TIMESTAMP not null,
+    datestamp date default CURRENT_TIMESTAMP not null,
     salenote varchar(1) not null,
     notes text
 )
@@ -79,7 +75,7 @@ create schema reporting
 create view reporting.sales_report as
 SELECT CAST(identifier AS varchar(36)) as id, sale as amount, dtmark as timestamp FROM region1.region1sales WHERE shipped = 0
 UNION
-SELECT '' as id, amount as amount, date as timestamp FROM region1.system2sales
+SELECT '' as id, amount as amount, datestamp as timestamp FROM region1.system2sales
 UNION
 SELECT CAST(id AS varchar(36)), amount, stamp as timestamp FROM region2.sales_period_1
 UNION
