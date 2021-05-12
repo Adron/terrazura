@@ -11,3 +11,11 @@ configuration:
     select_aggregate: railroad_aggregate
     select_by_pk: railroad
     update_by_pk: update_railroad
+array_relationships:
+- name: operators
+  using:
+    foreign_key_constraint_on:
+      column: railroad_id
+      table:
+        name: operators
+        schema: railroad_systems

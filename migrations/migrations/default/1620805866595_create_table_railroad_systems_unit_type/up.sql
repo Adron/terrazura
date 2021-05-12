@@ -1,0 +1,1 @@
+CREATE TABLE "railroad_systems"."unit_type" ("id" varchar NOT NULL DEFAULT railroad_systems.gen_unique_short_id(), "name" varchar NOT NULL, "description" text, "unit_load_type" jsonb, PRIMARY KEY ("id") , UNIQUE ("id"));

@@ -1,0 +1,15 @@
+table:
+  name: schedule
+  schema: railroad_systems
+object_relationships:
+- name: time_point
+  using:
+    foreign_key_constraint_on: time_point_id
+array_relationships:
+- name: train_schedules
+  using:
+    foreign_key_constraint_on:
+      column: schedule_id
+      table:
+        name: train_schedules
+        schema: railroad_systems

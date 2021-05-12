@@ -1,0 +1,15 @@
+table:
+  name: units
+  schema: railroad_systems
+object_relationships:
+- name: unit_type
+  using:
+    foreign_key_constraint_on: unit_type_id
+array_relationships:
+- name: consists
+  using:
+    foreign_key_constraint_on:
+      column: unit_id
+      table:
+        name: consist
+        schema: railroad_systems

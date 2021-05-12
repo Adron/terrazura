@@ -1,0 +1,1 @@
+CREATE TABLE "railroad_systems"."time_points" ("id" varchar NOT NULL DEFAULT railroad_systems.gen_unique_short_id(), "name" varchar NOT NULL, "type" varchar, "description" text, "arrival" timestamptz NOT NULL, "departure" timestamptz NOT NULL, PRIMARY KEY ("id") , UNIQUE ("id"));

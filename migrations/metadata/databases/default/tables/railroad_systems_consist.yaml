@@ -1,0 +1,10 @@
+table:
+  name: consist
+  schema: railroad_systems
+object_relationships:
+- name: train
+  using:
+    foreign_key_constraint_on: train_id
+- name: unit
+  using:
+    foreign_key_constraint_on: unit_id

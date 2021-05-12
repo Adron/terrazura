@@ -1,0 +1,10 @@
+table:
+  name: train_schedules
+  schema: railroad_systems
+object_relationships:
+- name: schedule
+  using:
+    foreign_key_constraint_on: schedule_id
+- name: train
+  using:
+    foreign_key_constraint_on: train_id

@@ -1,3 +1,25 @@
 table:
   name: trains
   schema: railroad_systems
+array_relationships:
+- name: consists
+  using:
+    foreign_key_constraint_on:
+      column: train_id
+      table:
+        name: consist
+        schema: railroad_systems
+- name: operators
+  using:
+    foreign_key_constraint_on:
+      column: train_id
+      table:
+        name: operators
+        schema: railroad_systems
+- name: train_schedules
+  using:
+    foreign_key_constraint_on:
+      column: train_id
+      table:
+        name: train_schedules
+        schema: railroad_systems

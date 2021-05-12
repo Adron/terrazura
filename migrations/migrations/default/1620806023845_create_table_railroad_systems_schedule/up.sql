@@ -1,0 +1,1 @@
+CREATE TABLE "railroad_systems"."schedule" ("id" varchar NOT NULL DEFAULT railroad_systems.gen_unique_short_id(), "time_point_id" varchar NOT NULL, "name" varchar NOT NULL, PRIMARY KEY ("id") , UNIQUE ("id"));
