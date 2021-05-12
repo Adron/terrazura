@@ -1,0 +1,1 @@
+CREATE TABLE "railroad_systems"."trains" ("id" varchar NOT NULL DEFAULT railroad_systems.gen_unique_short_id(), "name" varchar NOT NULL, "historical_start" date, "historical_end" date, "description" text NOT NULL, "notes" text NOT NULL, PRIMARY KEY ("id") , UNIQUE ("id"));
