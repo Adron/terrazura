@@ -1,10 +1,3 @@
-insert into railroad_systems.railroads (name, active, uri) values ('Amtrak', true, 'https://www.amtrak.com/');
-insert into railroad_systems.railroads (name, active, uri) values ('Sound Transit', true, 'https://www.soundtransit.org/');
-insert into railroad_systems.railroads (name, active, uri) values ('Caltrain', true, 'https://www.caltrain.com/');
-insert into railroad_systems.railroads (name, active, uri, headquarters_city) values ('Altamont Corridor Express', true, 'https://acerail.com/', 'Stockton, CA');
-insert into railroad_systems.railroads (name, active, uri, headquarters_city) values ('Metrolink', true, 'https://metrolinktrains.com/', 'Los Angeles, CA');
-insert into railroad_systems.railroads (name, active, uri, headquarters_city) values ('Coaster', true, 'https://gonctd.com/services/coaster-commuter-rail/', 'Oceanside, CA');
-
 insert into railroad_systems.railroads (id, name, created_at, updated_at, description, history, headquarters_city, active, uri)
 values  ('bXhB_iJ_', 'Amtrak', '2021-05-11 18:09:17.862953', '2021-05-11 18:09:17.862953', null, null, null, true, 'https://www.amtrak.com/'),
         ('_y7dqDTC', 'Sound Transit', '2021-05-11 18:09:17.862953', '2021-05-11 18:09:17.862953', null, null, null, true, 'https://www.soundtransit.org/'),
@@ -38,3 +31,8 @@ values  ('g6j04smx', '_y7dqDTC', ''),
         ('NIL_HSA3', '_y7dqDTC', ''),
         ('PhQfKUos', 'bXhB_iJ_', ''),
         ('NmdizXwL', 'bXhB_iJ_', '');
+
+
+
+
+
