@@ -24,16 +24,16 @@ function addHours(datetime, hours) {
     return time;
 }
 
-var days = faker.datatype.number({min:0, max:7})
-var hours = faker.datatype.number({min:0, max:24})
+for (var i = 0; i < 150; i++) {
+    var days = faker.datatype.number({min:0, max:7})
+    var hours = faker.datatype.number({min:0, max:24})
 
-var updated_at = new Date(faker.date.past())
-var created_at = addHours(addDays(updated_at, -days), -hours)
+    var updated_at = new Date(faker.date.past())
+    var created_at = addHours(addDays(updated_at, -days), -hours)
 
-var proj_id = project_ids[faker.datatype.number({min:0, max: 7})]
-var cleanCountry = faker.address.country().replace(",", " ").replace("'", " ")
+    var proj_id = project_ids[faker.datatype.number({min:0, max: 7})]
+    var cleanCountry = faker.address.country().replace(",", " ").replace("'", " ")
 
-for (var i = 0; i < 1500000; i++) {
     data +=
         faker.datatype.uuid() + "," +
         cleanCountry + "," +

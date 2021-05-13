@@ -29,7 +29,7 @@ done
 
 cd ../migrations
 
-sleep 3
+sleep 2
 
 echo 'Migrations starting.'
 hasura migrate apply --database-name default --endpoint http://localhost:8080
