@@ -1,4 +1,5 @@
 - "!include kundu_analytics_data.yaml"
+- "!include kundu_projects.yaml"
 - "!include railroad_systems_consist.yaml"
 - "!include railroad_systems_operators.yaml"
 - "!include railroad_systems_railroads.yaml"
