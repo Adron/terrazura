@@ -30,3 +30,6 @@ docker exec -it pgdb psql -U postgres -d coredb -h localhost -p 5432 -f ./kundu-
 
 #docker exec -it pgdb psql -U postgres
 #COPY kundu.analytics_data FROM '/kundu_table_data.csv' CSV HEADER;
+
+# Cleanup
+rm insert1.sql insert2.sql insert3.sql insert4.sql insert_reg1sales.sql insert_sys2sales.sql kundu_table_data.csv

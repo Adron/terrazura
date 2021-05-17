@@ -1,7 +1,7 @@
 SAPW='hasuraMSSQL1'
 
 # Start local API and database containers.
-docker-compose up -d
+docker compose up -d
 echo " ***  Services started.  ***"
 
 # Get a user defined Postgres database available for migrations and connections.
