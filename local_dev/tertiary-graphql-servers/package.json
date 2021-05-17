@@ -1,0 +1,22 @@
+{
+  "name": "tertiary-graphql-servers",
+  "version": "1.0.0",
+  "description": "These are servers representing tertiary GraphQL API Endpoints that we'll connect to with Hasura to stitch together the various data schemas.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "graphql",
+    "api",
+    "endpoints"
+  ],
+  "author": "Adron Hall",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0"
+  }
+}

@@ -43,4 +43,7 @@ cd ../local_dev/data-generators
 
 cd ../../migrations
 
-#hasura console --endpoint http://localhost:8080
+# hasura console --endpoint http://localhost:8080
+
+# cd ../../local_dev/tertiary-graphql-servers
+# node server.js
