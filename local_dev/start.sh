@@ -1,7 +1,7 @@
 SAPW='hasuraMSSQL1'
 
 # Start local API and database containers.
-docker compose up -d
+docker-compose up -d
 echo " ***  Services started.  ***"
 
 # Get a user defined Postgres database available for migrations and connections.
@@ -43,7 +43,9 @@ cd ../local_dev/data-generators
 
 cd ../../migrations
 
-# hasura console --endpoint http://localhost:8080
+hasura console --endpoint http://localhost:8080 &
 
-# cd ../../local_dev/tertiary-graphql-servers
-# node server.js
+cd ../local_dev/tertiary-graphql-servers
+node server.js &
+
+jobs
