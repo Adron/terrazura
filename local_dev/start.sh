@@ -13,7 +13,7 @@ echo " ***  Postgres initialized.  ***"
 docker cp db-starters/init-sqlserver.sql sqlserverdb:init-sqlserver.sql
 #run the setup script to create the DB and the schema in the DB
 #do this in a loop because the timing for when the SQL instance is ready is indeterminate
-for i in {1..50};
+for i in {1..10};
 do
     docker exec sqlserverdb /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P $SAPW -d master -i init-sqlserver.sql
     if [ $? -eq 0 ]
@@ -29,7 +29,7 @@ done
 
 cd ../migrations
 
-sleep 2
+sleep 5
 
 echo 'Migrations starting.'
 hasura migrate apply --database-name default --endpoint http://localhost:8080
@@ -43,9 +43,5 @@ cd ../local_dev/data-generators
 
 cd ../../migrations
 
-hasura console --endpoint http://localhost:8080 &
-
-cd ../local_dev/tertiary-graphql-servers
-node server.js &
-
-jobs
+#hasura console --endpoint http://localhost:8080
+#hasura console --endpoint http://localhost:8090

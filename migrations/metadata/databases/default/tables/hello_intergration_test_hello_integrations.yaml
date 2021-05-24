@@ -1,0 +1,16 @@
+table:
+  name: hello_integrations
+  schema: hello_intergration_test
+configuration:
+  custom_column_names: {}
+  custom_name: hello
+  custom_root_fields:
+    delete: remove_messages
+    delete_by_pk: remove_message
+    insert: add_messages
+    insert_one: add_message
+    select: messages
+    select_aggregate: message_aggregates
+    select_by_pk: message
+    update: change_messages
+    update_by_pk: change_message

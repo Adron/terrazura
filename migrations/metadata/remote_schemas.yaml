@@ -1,4 +1,1 @@
-- name: remote-users
-  definition:
-    url: https://data-typez.hasura.app/v1/graphql
-    timeout_seconds: 60
+[]

@@ -1,14 +1,7 @@
 .DS_Store
 .idea
 node_modules
-
-# Don't commit the data generated files.
-./local_dev/data-generators/insert1.sql
-./local_dev/data-generators/insert2.sql
-./local_dev/data-generators/insert3.sql
-./local_dev/data-generators/insert4.sql
-./local_dev/data-generators/insert_sys2sales.sql
-./local_dev/data-generators/insert_reg1sales.sql
+npm-debug.log
 
 # Local .terraform directories
 **/.terraform/*
