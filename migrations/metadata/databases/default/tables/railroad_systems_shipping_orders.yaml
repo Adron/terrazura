@@ -1,0 +1,3 @@
+table:
+  name: shipping_orders
+  schema: railroad_systems

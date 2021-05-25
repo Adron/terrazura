@@ -4,9 +4,12 @@
   "description": "Data generation for test data, etc, for building and development of the Terrazura reference application.",
   "main": "runitall.js",
   "author": "Adron Hall",
+  "type": "module",
   "dependencies": {
     "faker": "^5.5.3",
     "fs": "0.0.1-security",
+    "graphql": "^15.5.0",
+    "graphql-request": "^3.4.0",
     "shortid": "^2.2.16"
   }
 }
