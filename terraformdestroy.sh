@@ -12,3 +12,4 @@ terraform destroy \
   -var 'password='$PPASSWORD'' \
   -var 'database=terrazuradb' \
   -var 'apiport=8080'
+
