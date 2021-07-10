@@ -14,18 +14,6 @@ docker cp db-starters/init-sqlserver.sql sqlserverdb:init-sqlserver.sql
 #run the setup script to create the DB and the schema in the DB
 #do this in a loop because the timing for when the SQL instance is ready is indeterminate
 for i in {1..10};
-do
-    docker exec sqlserverdb /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P $SAPW -d master -i init-sqlserver.sql
-    if [ $? -eq 0 ]
-    then
-        # Get a user defined SQL Server database available for migrations and connections.
-        echo " ***  SQL Server initialized.  ***"
-        break
-    else
-        echo "not ready yet... waiting."
-        sleep 1
-    fi
-done
 
 cd ../migrations
 
@@ -38,10 +26,7 @@ echo 'Metadata and seeds starting.'
 hasura metadata apply --endpoint http://localhost:8080
 hasura seeds apply --database-name default --endpoint http://localhost:8080
 
-cd ../local_dev/data-generators
-./runitall.sh
 
-cd ../../migrations
 
-#hasura console --endpoint http://localhost:8080
-#hasura console --endpoint http://localhost:8090
+# HASURA_GRAPHQL_DATABASE_URL
+# HASURA_SQLSERVER_URL

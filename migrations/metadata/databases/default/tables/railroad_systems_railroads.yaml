@@ -1,16 +1,6 @@
 table:
   name: railroads
   schema: railroad_systems
-configuration:
-  custom_column_names: {}
-  custom_name: rr
-  custom_root_fields:
-    delete_by_pk: delete_railroad
-    insert_one: insert_railroad
-    select: railroads
-    select_aggregate: railroad_aggregate
-    select_by_pk: railroad
-    update_by_pk: update_railroad
 array_relationships:
 - name: operators
   using:

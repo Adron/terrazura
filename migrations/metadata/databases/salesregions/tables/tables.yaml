@@ -1,7 +1,4 @@
-- "!include region1_region1sales.yaml"
 - "!include region2_sales_period_1.yaml"
 - "!include region2_sales_period_2.yaml"
 - "!include region2_sales_period_3.yaml"
 - "!include region2_sales_period_4.yaml"
-- "!include reporting_sales_report.yaml"
-- "!include region1_system2sales.yaml"
