@@ -1,0 +1,1 @@
+drop view reporting.sales_report

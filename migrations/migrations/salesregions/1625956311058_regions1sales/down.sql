@@ -1,0 +1,1 @@
+drop table region1.region1sales
