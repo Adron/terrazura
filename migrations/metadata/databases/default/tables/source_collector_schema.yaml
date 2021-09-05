@@ -5,3 +5,11 @@ object_relationships:
 - name: connection
   using:
     foreign_key_constraint_on: connection_id
+insert_permissions:
+- permission:
+    backend_only: false
+    check: {}
+    columns:
+    - connection_id
+    - schema_map
+  role: hr

@@ -1,4 +1,4 @@
-
+# NOTE: local_dev is in flux, I've got some refactors coming for it real soon. -Adron
 
 Sample SQL Server ODBC Connection Strings:
 

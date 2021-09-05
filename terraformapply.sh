@@ -1,6 +1,6 @@
 terraform init
 
-terraform apply -auto-approve \
+terraform apply \
   -var 'server=terrazuraserver' \
   -var 'username='$PUSERNAME'' \
   -var 'password='$PPASSWORD'' \
@@ -12,8 +12,13 @@ terraform apply -auto-approve \
 
 cd migrations
 
+echo "Preparing to migrate database schemas."
+sleep 5
+
 hasura migrate apply --all-databases
-hasura migrate apply --database-name salesregions
+
+sleep 5
+
 hasura metadata apply
 hasura seeds apply --database-name default
 
