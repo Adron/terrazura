@@ -1,10 +1,10 @@
-if [ $0 == 'export' ]
-then
-  echo 'Exporting Hasura metadata.'
-  cd migrations
-  hasura metadata export
-pwd
-fi
+# if [ $0 == 'export' ]
+# then
+#   echo 'Exporting Hasura metadata.'
+#   cd migrations
+#   hasura metadata export
+# pwd
+# fi
 
 terraform destroy \
   -var 'server=terrazuraserver' \

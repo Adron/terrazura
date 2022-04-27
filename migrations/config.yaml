@@ -1,5 +1,5 @@
 version: 3
-endpoint: http://terrazuradatalayer.westus2.azurecontainer.io:8080/
+endpoint: http://terrazuradatalayer.westus.azurecontainer.io:8080/
 api_paths:
   v1_query: v1/query
   v2_query: v2/query
@@ -13,7 +13,7 @@ migrations_directory: migrations
 seeds_directory: seeds
 actions:
   kind: synchronous
-  handler_webhook_baseurl: http://terrazuradatalayer.westus2.azurecontainer.io:8080
+  handler_webhook_baseurl: http://terrazuradatalayer.westus.azurecontainer.io:8080
   codegen:
     framework: ""
     output_dir: ""
