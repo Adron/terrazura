@@ -8,7 +8,7 @@ You'll need several CLI tools to use this repository for your own.
 
 1. [Terraform](https://www.terraform.io/downloads.html) - [instructions & notes](https://compositecode.blog/2019/08/01/development-workspace-with-terraform/)
 2. [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) - [instructions & notes](https://compositecode.blog/2019/08/01/development-workspace-with-terraform/)
-3. [Hasura CLI](https://hasura.io/docs/latest/graphql/core/hasura-cli/index.html#installation) - [instructions & notes](https://compositecode.blog/2020/10/13/hasure-cli-installation-notes/)
+3. [Hasura CLI](https://hasura.io/docs/latest/hasura-cli/install-hasura-cli/) - [instructions & notes](https://compositecode.blog/2020/10/13/hasure-cli-installation-notes/)
 
 One those tools are available a few things need to be done with the aforementeiond tools.
 
