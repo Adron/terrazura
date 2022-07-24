@@ -1,5 +1,7 @@
 # terrazura
 
+NOTE: All of this doc, and details, correlate to the [Terrazura Repo](https://github.com/Adron/terrazura/).
+
 I created this repo during a live stream on my Twitch [Thrashing Code](https://www.twitch.tv/thrashingcode) Channel 🤘 at 10am on the 30th of December, 2020. The VOD is now available on my YouTube [Thrashing Code](https://youtube.com/thrashingcode) Channel (click [here](https://youtu.be/7glsC88h2Ss) for the direct link to video). A rough as hell year, but wanted to wrap it up with some solid content. In this stream I tackled a ton of specifics, in detail about getting Hasura deployed in Azure, Postgres backed, a database schema designed and created, using database schema migrations, and all sorts of tips n' tricks along the way. 3 hours of solid how to get shit done material!
 
 ## Deployment (i.e. Prerequisites)
